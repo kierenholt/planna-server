@@ -2,20 +2,19 @@ import mongoose, { Types } from "mongoose";
 import { ClasModel } from "./models/schema";
 
 export class ClasContext {
-    static async getTopicsOfClass(_id: Types.ObjectId) {
+    static async getClassesOfUser(_id: string, fields?: string | string[]) {
         let mongoClient = await mongoose.connect(process.env.DB_URI as string);
-        let found = await ClasModel
-            .findById(_id, 'topics')
-            .exec();
-        return found;
-    }
-
-    static async getClassNamesOfUser(_id: string) {
-        let mongoClient = await mongoose.connect(process.env.DB_URI as string);
-        let found = await ClasModel
-            .find( { owner: _id }, 'name')
-            .exec();
-        return found;
+        if (Array.isArray(fields)) fields = fields.join(" ");
+        if (fields) {
+            return await ClasModel
+                .find( { owner: _id }, fields)
+                .exec();
+        }
+        else {
+            return await ClasModel
+                .find( { owner: _id })
+                .exec();
+        }
     }
 
     static async renameClass(classId: Types.ObjectId,  name: string) {

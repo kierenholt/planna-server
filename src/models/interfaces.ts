@@ -1,22 +1,26 @@
-import { Types } from "mongoose";
-
-export interface IUser extends Document {
+export interface User extends Document {
     _id: string; //GXXX for google
     name: string;
     email: string;
     picture?: string;
-  }
+}
 
-export interface IClas extends Document {
+export interface Clas extends Document {
     _id: string;
     name: string;
-    topics: TopicData[];
     settings: string;
-    owner: IUser;
-  }
+    owner: User;
+}
 
-//no model
-export interface AssignedNoteData {
+export interface Topic {
+    _id: string;
+    lessons: Lesson[];
+    name: string;
+    clas: Clas;
+    isPublicShared: boolean;
+}
+
+export interface AssignedNote {
     courseUrl: string;
     lessonUrl: string;
     markbookUrl: string;
@@ -24,21 +28,14 @@ export interface AssignedNoteData {
     lessonId: string;
 }
 
-//no model
-export interface LessonData {
-    rows: RowData[];
+export interface Lesson {
+    rows: Row[];
     name: string;
-    assignedNotes: AssignedNoteData[];
-}
-
-//no model
-export interface TopicData {
-    lessons: LessonData[];
-    name: string;
+    assignedNotes: AssignedNote[];
 }
 
 
-export interface RowData extends Document {
+export interface Row extends Document {
     _id: string;
     comment: string;
     title: string;
@@ -46,4 +43,3 @@ export interface RowData extends Document {
     leftRight: string[];
 }
 
-  

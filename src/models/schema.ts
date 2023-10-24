@@ -1,16 +1,16 @@
-import { Schema, model, Document, Types, Mongoose } from 'mongoose';
-import { AssignedNoteData, IClas, IUser, LessonData, RowData, TopicData } from './interfaces';
+import { Schema, Types, model } from 'mongoose';
+import { AssignedNote, Clas, User, Lesson, Row, Topic } from './interfaces';
 
-export const rowDataSchema = new Schema<RowData>({
-    title: { type: String, required: true },
+export const rowSchema = new Schema<Row>({
+    title: { type: String, required: false },
     leftRight: { type: [String], required: true },
     comment: { type: String, required: false },
     purpose: { type: String, required: true },
 });
 
-export const RowDataModel = model<RowData>('RowData', rowDataSchema);
+export const RowModel = model<Row>('Row', rowSchema);
 
-const assignedNoteDataSchema = new Schema<AssignedNoteData>({
+const assignedNoteSchema = new Schema<AssignedNote>({
     courseUrl: { type: String, required: true },
     lessonUrl: { type: String, required: true },
     markbookUrl: { type: String, required: true },
@@ -18,31 +18,34 @@ const assignedNoteDataSchema = new Schema<AssignedNoteData>({
     lessonId: { type: String, required: true },
 });
 
-const lessonDataSchema = new Schema<LessonData>({
-    rows: { type: [rowDataSchema], required: true },
+const lessonSchema = new Schema<Lesson>({
+    rows: { type: [rowSchema], required: true },
     name: { type: String, required: true },
-    assignedNotes: { type: [assignedNoteDataSchema], required: false },
+    assignedNotes: { type: [assignedNoteSchema], required: false },
 });
 
-const topicDataSchema = new Schema<TopicData>({
-    lessons: { type: [lessonDataSchema], required: true },
+const topicSchema = new Schema<Topic>({
+    lessons: { type: [lessonSchema], required: true },
     name: { type: String, required: true },
+    clas: { type: Types.ObjectId, required: true }, //0 for library
+    isPublicShared: { type: Boolean, required: true, default: false },
 });
 
-const clasSchema = new Schema<IClas>({
+export const TopicModel = model<Topic>('Topic', topicSchema);
+
+const clasSchema = new Schema<Clas>({
     name: { type: String, required: true },
-    topics: { type: [topicDataSchema], required: true },
     settings: { type: String, default: '' },
     owner: { type: String, required: true }, //owner id is a string
 });
 
-export const ClasModel = model<IClas>('Clas', clasSchema);
+export const ClasModel = model<Clas>('Clas', clasSchema);
 
-const userSchema = new Schema<IUser>({
+const userSchema = new Schema<User>({
     name: { type: String, required: true },
     email: { type: String, required: true },
     _id: { type: String, required: true },
-    picture: { type: String, required: false } 
+    picture: { type: String, required: false },
 });
 
-export const UserModel = model<IUser>('User', userSchema);
+export const UserModel = model<User>('User', userSchema);
