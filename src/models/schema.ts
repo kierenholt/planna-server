@@ -1,51 +1,52 @@
-import { Schema, Types, model } from 'mongoose';
-import { AssignedNote, Clas, User, Lesson, Row, Topic } from './interfaces';
+import { Schema, Types } from 'mongoose';
+import { User } from '../user';
+import { Clas as IClas } from '../clas';
+import { Topic as ITopic } from '../topic';
+import { Lesson as ILesson } from '../lesson';
+import { Task as ITask } from '../task';
+import { IRow } from '../row';
 
-export const rowSchema = new Schema<Row>({
-    title: { type: String, required: false },
-    leftRight: { type: [String], required: true },
-    comment: { type: String, required: false },
-    purpose: { type: String, required: true },
-});
 
-export const RowModel = model<Row>('Row', rowSchema);
-
-const assignedNoteSchema = new Schema<AssignedNote>({
-    courseUrl: { type: String, required: true },
-    lessonUrl: { type: String, required: true },
-    markbookUrl: { type: String, required: true },
-    assignedDate: { type: Date, required: true },
-    lessonId: { type: String, required: true },
-});
-
-const lessonSchema = new Schema<Lesson>({
-    rows: { type: [rowSchema], required: true },
+export const userSchema = new Schema<User>({
+    _id: { type: String, required: true, path: 'id' },
     name: { type: String, required: true },
-    assignedNotes: { type: [assignedNoteSchema], required: false },
-});
+    email: { type: String, required: true },
+    picture: { type: String, required: false },
+}, { autoCreate: false });
 
-const topicSchema = new Schema<Topic>({
-    lessons: { type: [lessonSchema], required: true },
-    name: { type: String, required: true },
-    clas: { type: Types.ObjectId, required: true }, //0 for library
-    isPublicShared: { type: Boolean, required: true, default: false },
-});
-
-export const TopicModel = model<Topic>('Topic', topicSchema);
-
-const clasSchema = new Schema<Clas>({
+//parent = user
+export const clasSchema = new Schema<IClas>({
     name: { type: String, required: true },
     settings: { type: String, default: '' },
     owner: { type: String, required: true }, //owner id is a string
-});
+}, { autoCreate: false });    
 
-export const ClasModel = model<Clas>('Clas', clasSchema);
-
-const userSchema = new Schema<User>({
+//parent = clas
+export const topicSchema = new Schema<ITopic>({
     name: { type: String, required: true },
-    email: { type: String, required: true },
-    _id: { type: String, required: true },
-    picture: { type: String, required: false },
-});
+    clas: { type: Types.ObjectId, required: true }, //0 for library
+    isPublicShared: { type: Boolean, required: true, default: false },
+}, { autoCreate: false });        
 
-export const UserModel = model<User>('User', userSchema);
+//parent = topic
+export const lessonSchema = new Schema<ILesson>({
+    name: { type: String, required: true },
+    topic: { type: Types.ObjectId, required: true }, //0 for library
+//    rows: [{ type: Types.ObjectId, default: []}], //https://stackoverflow.com/questions/16514912/mongoose-schema-for-hierarchical-data-like-a-folder-subfolder-file
+    rows: [{ type: Types.ObjectId, ref: 'Row', default: []}], //https://stackoverflow.com/questions/16514912/mongoose-schema-for-hierarchical-data-like-a-folder-subfolder-file
+}, { autoCreate: false });  
+//refs are separate top level documents https://mongoosejs.com/docs/subdocs.html
+
+//parent = topic
+export const taskSchema = new Schema<ITask>({
+    name: { type: String, required: true },
+    topic: { type: Types.ObjectId, required: true }, //0 for library
+}, { autoCreate: false });    
+
+//parent = lesson
+export const rowSchema = new Schema<IRow>({
+    title: { type: String, required: false },
+    leftRight: { type: [String], required: true },
+    comment: { type: String, required: false },
+    purpose: { type: String, required: true }
+}, { autoCreate: false });

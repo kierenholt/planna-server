@@ -20,3 +20,7 @@ tutorial
 
     *** TYPESCRIPT ***
     ctrl-shift B to bring up tasks then choose build or watch
+
+*** HOW TO INSPECT DB***
+https://account.mongodb.com/account/login?
+

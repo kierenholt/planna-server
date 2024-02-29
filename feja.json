@@ -1,0 +1,2508 @@
+{
+    "topics": [
+        {
+            "name": "KS3",
+            "lessons": [
+                {
+                    "rows": [
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/riM5ulX.gif)\n@[14,30]($$a)\n@[63,35]($$b)",
+                                "OR and RQ are parallel and their lengths are in the ratio $$:$$\n\nCalculate PR in terms of a and b\n\nPR = ___ a + ___ b\n\n[https://www.youtube.com/watch?v=KCLRNUlfnTU](https://www.youtube.com/watch?v=KCLRNUlfnTU)"
+                            ],
+                            "title": "parallel vectors",
+                            "comment": "(2..5)*(c+d)\n(2..5)*(c+d)\n(1,3,5)\n(2,4)\na*c/(c+d)-a\nb*c/(c+d)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/ZaC9pei.gif)\n@[17,7](a)\n@[30,55]($$a + $$b)\n@[45,20]($$a + $$b)",
+                                "ON is a straight line\nPN is parallel to a\nThe values of OM and MP are shown\n\nWhat is PN in terms of a? PN = ___ a\n\n[https://www.youtube.com/watch?v=zV9_LKpeiIE](https://www.youtube.com/watch?v=zV9_LKpeiIE)"
+                            ],
+                            "title": "parallel vectors 2",
+                            "comment": "(c+e)*f\nd*f\n2..10\n2..5\n2..5\n(2..5)"
+                        }
+                    ],
+                    "name": "Geometry",
+                    "assignedNotes": []
+                },
+                {
+                    "rows": [
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "f(x) has a minimum point ($$,$$)\n![image](https://teachometer.co.uk/uploadedImages/bhC4cO1.png)",
+                                "Four new functions are listed below with their new minimum points.\nCan you complete the functions?\n\n|new function|new minimum point\n|f(x+__)|($$,$$)\n|f(x)+__|($$,$$)\n|f(__x)|($$,$$)\n|__f(x)|($$,$$)\n\n"
+                            ],
+                            "title": "transformations",
+                            "comment": "1,3,5\n2,4\n2..5\na-c\nb\n2..5\na\nb+f\n2,4,5\na/i\nb\n2..5\na\nb*l"
+                        }
+                    ],
+                    "name": "Sequences functions and graphs",
+                    "assignedNotes": []
+                }
+            ]
+        },
+        {
+            "lessons": [
+                {
+                    "rows": [
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "y is inversely proportional to x\nwhen x = $$, y = $$\n\nfind the value of y when x = $$\n\ny = ___",
+                                ""
+                            ],
+                            "title": "inversely proportional",
+                            "comment": "0.1*(20..50)\nd*e\na*e\n0.1*(20..50)\n2..9"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Solve the inequality x^2 $$x $$ $$\n\nx > __\nx < __\n\n[https://www.youtube.com/watch?v=caFietTnEpo](https://www.youtube.com/watch?v=caFietTnEpo)",
+                                ""
+                            ],
+                            "title": "quadratic inequality",
+                            "comment": "includesign(-1*(f+g))\n\"<\",\">\"\n-1*f*g\nmin(f,g),max(f,g)\nmax(f,g),min(f,g)\n(2..5),(4..5),(-5..-2)\n(-5..-2),(1..3),(2..5)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Find the first two positive roots of the equation: \n\nsin(x) = $$\n\nfirst positive root x = ___\nsecond positive root x = ___",
+                                ""
+                            ],
+                            "title": "sin roots",
+                            "comment": "roundtodp(sind(b),4)\n(15..75),(195..255)\n(180-b),(540-b)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/pUR3aYQ.png)\n@[20,50](__)\n@[75,50](__)\n@[45,88](__)",
+                                "The curve has the equation \n\ny = x^2 $$x $$\n\nFill in the points where the curve crosses the x-axis and y-axis\n\nFind the coordinates of the minimum point (__,__)\n\n[https://youtu.be/c-uq6fXfCtE](https://youtu.be/c-uq6fXfCtE)"
+                            ],
+                            "title": "quadratic roots",
+                            "comment": "-5..-2\n-1*a+(2,4,6)\ne\n-1*(a+b)\na*b\n0.5*(a+b)\n(f+a)*(f+b)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The HCF of two numbers is $$\nThe LCM of the same two numbers is $$\nOne of the numbers is $$\nFind the other number ___\n\n[https://www.youtube.com/watch?v=VnWDqPqfDus](https://www.youtube.com/watch?v=VnWDqPqfDus)",
+                                ""
+                            ],
+                            "title": "LCM and HCF",
+                            "comment": "hcf(c,d)\nlcm(c,d)\ne*(10..14)\ne*(5..9)\n2..5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "approximate √($$ x $$) = ___",
+                                ""
+                            ],
+                            "title": "approximation 2",
+                            "comment": "d*d+0.1*(2..9)\ne*e-0.1*(2..9)\nd*e\n3..9\n3..9"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "A cyclist completes two stages of the Tour De France. His team have recorded the details of each stage, along with an average over both stages.\n\nFill in the missing information\n\n",
+                                "|Stage|Average Speed (mph)|Race time (mins)\n|1|$$|$$\n|2|$$|$$\n|Combined|$$|$$"
+                            ],
+                            "title": "tour de france",
+                            "comment": "e+g\nh*i\ne-h\ng*i\n20..30\nb+d\n2,5,2,5\n1,4,4,1\n3"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "On the planet Pez, a postcode consists of $$ capital letters followed by $$ digits from 0 - 9\nHow many unique postcodes are possible using this system? ___\n\n[https://www.youtube.com/watch?v=_-rHRMxjla0](https://www.youtube.com/watch?v=_-rHRMxjla0)",
+                                ""
+                            ],
+                            "title": "Pezian postcodes",
+                            "comment": "1..4\n1..4\npow(26,a)*pow(10,b)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A driver is timed over a $$m stretch of road, measured to the nearest $$ m.\nThe time taken was $$ seconds, measured to the nearest $$ seconds.\n\nFind the maximum speed of the driver in km/h \n\n___ km / h\n\n[https://www.youtube.com/watch?v=Wyf8eXitPwM](https://www.youtube.com/watch?v=Wyf8eXitPwM)",
+                                ""
+                            ],
+                            "title": "speed bounds",
+                            "comment": "30*f+(1,3,5,7)*b\n5,10,20\nf+(1,3,5,7)*d\n10,20,5\n(a+0.5*b)*3.6/(c-0.5*d)\n(2..9)*10"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The number of bees in a beehive is decreasing exponentially.\n\nFill in the missing information\n\n|Week|Number of bees\n|$$|$$\n|$$|$$\n|$$|___\n",
+                                ""
+                            ],
+                            "title": "bees",
+                            "comment": "1..3\nround(g*pow(h,a))\n4..6\nround(g*pow(h,c))\n7..9\nround(g*pow(h,e))\n(15..19)*1000\n(85..95)*0.01"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "y is an exponential function.\ny = ab^x\n\nFind a and b\n\n|x|y\n|$$|$$\n|$$|$$\n\na = ___\nb = ___",
+                                ""
+                            ],
+                            "title": "exponential",
+                            "comment": "1..3\nround(e*pow(f,a))\n5..7\nround(e*pow(f,c))\n2..9\n2..5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![Imgur](https://teachometer.co.uk/uploadedImages/Wm1SuQz.png)\n@[8,48]($$ cm)\n@[81,33]($$ cm)\n@[46,82]($$ cm)\n",
+                                "This frustum is made from glass which has a density of $$ g/cm^3 . \n\nCalculate the mass of the frustum ___ g\n\nVolume of a cone = ~[1](3)πr^2 h"
+                            ],
+                            "title": "frustum",
+                            "comment": "2..5\n6..10\n6..10\n0.5*(2..7)\nd*π*(c*c*b - c*c*(b-a)*(b-a)*(b-a)/b/b)/12"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The number of grouse in North Yorkshire at the start of year n is P~n .\nThe number of grouse at the start of the following year is given by the formula:\n\nP~n+1 = $$ x (P~n - G) where G is a constant\n\nComplete the table below\n\n|Year|Number of grouse\n| $$ | $$ \n| $$ | $$ \n| $$ | ___\n\n[https://www.youtube.com/watch?v=3Xvbjho473c](https://www.youtube.com/watch?v=3Xvbjho473c)",
+                                ""
+                            ],
+                            "title": "grouse",
+                            "comment": "1+0.01*(2..5)\n2000+(5..15)\n(15..30)*10000\nb+1\na*(c-h)\nd+1\na*(e-h)\n(1..5)*1000"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![Imgur,50](https://teachometer.co.uk/uploadedImages/iYE8TZT.png)",
+                                "The picture shows two polygons which share a side and a corner. \nPolygon A has $$ sides.\nThe remaining angle is $$ degrees.\n\nCalculate the number of sides of polygon B. ___ \n\n[https://www.youtube.com/watch?v=JUZwfLK8b44](https://www.youtube.com/watch?v=JUZwfLK8b44)"
+                            ],
+                            "title": "polygon angles",
+                            "comment": "4,5,6,8,9,10,12,15,18,20\n360/a + 360/c\n5,6,8,9,10,12,15,18,20\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A ($$, $$) B ($$, $$) and C($$, k) are the vertices of a right angled triangle with angle ABC the right angle.\n\nFind an equation of the line that passes through A and C. Give your answer in the form __y + __x = $$",
+                                ""
+                            ],
+                            "title": "right angle triangle equation of line",
+                            "comment": "2..5\n2..5\na+i*(d-b)\nb+(2..3)\nc-(2..3)\ne-a\nb-j\ne*b-j*a\n2..3//gradient i\nd+(c-e)*i //missing point"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![img](https://teachometer.co.uk/uploadedImages/bijSpEO.png)\n@[0,29](v, m/s)\n@[8,90](0)\n@[45,99](time, s)\n@[30,90]($$)\n@[60,90]($$)\n@[86,90]($$)",
+                                "Here is a speed time graph for a car journey. \nThe total distance travelled was $$ m.\n\nCalculate the speed v which is shown in the graph \n\nv = ___ m/s"
+                            ],
+                            "title": "missing speed ",
+                            "comment": "10*(2..5)\na+10*(2..5)\nb+10*(2..5)\ne*0.5*(b+c-a)\n10..30"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "($$)^$$ = $$ correct to 3 significant figures\n\nHence find $$^$$ correct to 3 significant figures = ____",
+                                ""
+                            ],
+                            "title": "powers of ten",
+                            "comment": "0.1*(21..99)\n4..7\nroundtosf(pow(a,b),3)\na*(0.1,10)\nb\npow(d,e)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "$$ $$ $$ $$ $$ $$ $$\n\nfor the numbers listed above, find the \nlower quartile ___\nmedian ___\nupper quartile ___",
+                                ""
+                            ],
+                            "title": "quartiles and median",
+                            "comment": "2..9\na+(0..3)\nb+(0..3)\nc+(0..3)\nd+(0..3)\ne+(0..3)\nf+(0..3)\nb\nd\nf"
+                        }
+                    ],
+                    "name": "GCSE exam questions",
+                    "assignedNotes": []
+                },
+                {
+                    "rows": [
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "h is inversely proportional to p\np is directly proportional to √t\n\nGiven that h = $$ and t = $$ when p = $$\n\nShow that h can be expressed in terms of t as h = ~[Q](√t) and find the value of Q\n\nQ =  ___",
+                                ""
+                            ],
+                            "title": "double proportional",
+                            "comment": "11..19\npow((2..9),2)\nf*sqrt(b)\na*sqrt(b)\nc*a\n2..4"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "p and q are two numbers such that p > q.\n\nWhen you subtract $$ from p and subtract $$ from q, the answers are in the ratio $$:$$\nWhen you add $$ to p and add $$ to q the answers are in the ratio $$ : $$\n\nFind p and q\np = ___\nq = ___",
+                                ""
+                            ],
+                            "title": "pq ratio",
+                            "comment": "1..5\na\n3..7\ncoprime(c)\nh*c-d*g-a\ne\nc+d\nc\n(g-h)*c+a\n(g-h)*d+a"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The picture shows two similar shaped cars.\nSurface area of small car : surface area big car = $$ : $$\nThe volume of small car is $$ cm^3 .\n\nCalculate the volume of the big car ____ cm^3",
+                                "\n![](https://live.staticflickr.com/4656/27874728629_01b2ced575_b.jpg)"
+                            ],
+                            "title": "area and volume scaling 3",
+                            "comment": "3,7,11,13\n(2,4,6,8)*10000\n20..40\npow(b/a,1.5)*c"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Kev can run $$% faster than Trev. They run a race. \nIn order for them to cross the finish line at the same time, Kev decides to give Trev a headstart.\nAs a percentage of Kev's distance, how far does Trev run? ___ %",
+                                ""
+                            ],
+                            "title": "percentage increase decrease",
+                            "comment": "10..25\n100/(100+a)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "There are some small cubes and some large cubes in a bag.\nThe cubes are red or the cubes are yellow.\nThe ratio of small : large is $$ : $$.\nThe ratio of red : yellow is $$ : $$.\nWhat is the least possible total number of cubes? ___\nAll of the small cubes are yellow\nWork out the least possible number of large yellow cubes ___",
+                                ""
+                            ],
+                            "title": "small large red yellow",
+                            "comment": "coprime(b)\n2..4\ncoprime(d)\n5..7\n(a+b)*(c+d)/hcf(a+b,c+d)\nb*d-a*c"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/REWGl1J.png)\n@[23,30]($$ m)\n@[45,30]($$ m)\n@[35,54]($$ m)\n@[5,65]($$ m)\n@[40,92]($$ m)\n@[75,65]($$ m)",
+                                "BC and DE are parallel.\nFind the missing sides\n[https://www.youtube.com/watch?v=ygcppnxL4vM](https://www.youtube.com/watch?v=ygcppnxL4vM)"
+                            ],
+                            "title": "A frame",
+                            "comment": "2..5\n6..7\n8..9\n(g-1)*a\ng*c\n(g-1)*b\n(3..6)*0.5\n"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "![](https://i.pinimg.com/originals/30/ec/21/30ec21b0274fdb9486c48137dd3bc27a.jpg)\n\nThe picture shows a model car.\nComplete the table for the real car.",
+                                "| |Model|Real\n|Length|$$cm  |$$m\n|Area| $$cm^2| $$m^2\n|Volume| $$cm^3| $$m^3\n\n[https://www.youtube.com/watch?v=eLL9acCvt50](https://www.youtube.com/watch?v=eLL9acCvt50)"
+                            ],
+                            "title": "scaling volumes and areas",
+                            "comment": "(2..9)\na*g\n(11..19)\nc*g*g\n(21..39)\ne*g*g*g\n(3,4)/(2,5,10)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Given that x^2 : ($$ - $$x) = 1: 2\n\nFind the possible values of x\n\nx = ___ (smallest)\nx = ___ (largest)",
+                                ""
+                            ],
+                            "title": "quadratic ratio",
+                            "comment": "-2*c*d\n-2*(c+d)\n-5..-1\n0.5*(1..5)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "x is $$ to $$ dp to give the value $$. Find the error interval of x\n\n ___ {</<=} x {</<=} ___",
+                                ""
+                            ],
+                            "title": "error intervals",
+                            "comment": "\"rounded\",\"truncated\"\n1..3\n(20..200)/pow(10,b)\nroundtodp(c,b)-0.05/pow(10,b-1),roundtodp(c,b)\n\"<=\"\n\"<\"\nroundtodp(c,b)+0.05/pow(10,b-1),roundtodp(c,b)+0.1/pow(10,b-1)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "In a company, the ratio of the number of men to women is $$ : $$.\n$$ % of the men are under 25\n$$ % of the women are under 25\n\nWhat percentage of all the people at the company are under 25? ___ %",
+                                ""
+                            ],
+                            "title": "mf ratio",
+                            "comment": "1..4\n10-a\n(6..9)*10\n(2..5)*10\n(a*c+b*d)*0.1"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "y is $$ x\nwhen x = $$a, y = $$\nwhat is the value of y when x = $$a? ____",
+                                ""
+                            ],
+                            "title": "any proportional",
+                            "comment": "\"proportional to\",\"inversely proportional to\",\"proportional to the square of\",\"inversely proportional to the square of\"\n11..20\n(11..20)*0.1,e*f,(11..20)*0.1,e*f*f\nb*f\nc*f,(11..20)*0.1,c*f*f,(11..20)*0.1\n2..10"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "At Kev's bakery there is a display of pastries. \nThere are $$ times as many doughnuts as turnovers.\nThere are $$ times as many turnovers as yumyums.\n\nWrite down the ratio of doughnuts : turnovers : yumyums\n\n__ : __ : __",
+                                ""
+                            ],
+                            "title": "bakery",
+                            "comment": "2..5\n2..5\na*b\nb\n1"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Trev's train fare went up by $$% to £$$. What was the fare before the price increase? £ ___",
+                                ""
+                            ],
+                            "title": "reverse percentage",
+                            "comment": "(40..90)*0.1\npadrightzeroes(roundtodp((1+a/100)*c,2),6)\n(20..40)*10"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/Vwxsa82.png)",
+                                "AB = $$ cm\nBD = $$ cm\nfind AC\n\nAC = ___ cm"
+                            ],
+                            "title": "Pair of right angled triangles",
+                            "comment": "(2,4,5)*(1..3)\na+(5..10)\na+b*b/a"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Evaluate:\n\n ^$$ √($$ x $$ x 10^$$ ) = ____\n\n[https://www.youtube.com/watch?v=da7nmr8chUk](https://www.youtube.com/watch?v=da7nmr8chUk)",
+                                ""
+                            ],
+                            "title": "standard form calculation",
+                            "comment": "3..4\nf\npow(f,a-1)\ng*a\nf * pow(10,g)\n2..5\n2..5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Kev invests £$$ in a savings account for 3 years. \nThe account pays compound interest at a rate of:\n$$% for the first year\nx% for the second year\nx% for the third year\n\nThere is a total amount of £$$ in the savings account at the end of three years. \nCalculate x, the rate of interest in the second year. ___ %\n\n[https://www.youtube.com/watch?v=boiUkPDNzp8](https://www.youtube.com/watch?v=boiUkPDNzp8)",
+                                ""
+                            ],
+                            "title": "compound interest",
+                            "comment": "(2..9)*1000\n(5..30)*0.1\nroundtodp(a*(1+b/100)*(1+d/100)*(1+d/100),2)\n(5..30)*0.1\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "There are $$ sweets in a jar which are shared between three friends Kev, Trev and Bev.\nBev gets $$ times more sweets than Kev.\nKev's number of sweets is less than or equal to Trev's, who's number is less than or equal to Bev's.\n\nWhat is the minimum and maximum number of sweets that Kev can have?\n\nMin: ___\nMax: ___\n\n[https://www.youtube.com/watch?v=bBkBFu3jxXE](https://www.youtube.com/watch?v=bBkBFu3jxXE)",
+                                ""
+                            ],
+                            "title": "Sweet sharing",
+                            "comment": "(b+2)*(2*b+1)*e\n2..3\n(b+2)*e\n(2*b+1)*e\n2..5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Simplify ~[$$ + $$√$$]($$ + $$√$$) into the form p + q√$$.\n\nFind p and q\n\np = __\nq = __\n\n[https://www.youtube.com/watch?v=tIggq2nFIXI](https://www.youtube.com/watch?v=tIggq2nFIXI)",
+                                ""
+                            ],
+                            "title": "surds",
+                            "comment": "1,3,5\n2,4\n2,6,3\n3,5,2\n2,2,1\nc\nc\na*d-b*e*c\nb*d-a*e"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Simplify:\n\n√$$ + √$$ = __ √__\n\n[https://www.youtube.com/watch?v=D5P8LAfcHhM](https://www.youtube.com/watch?v=D5P8LAfcHhM)",
+                                ""
+                            ],
+                            "title": "surds sum",
+                            "comment": "e*e*d\nf*f*d\ne+f\n2,3,5\n2..5\n(e+1)..7"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Kev has only $$p coins in bag A and only $$p coins in bag B. \nThe ratio of the number coins in bag A to bag B is $$:$$.\n\nCalculate the ratio of the *total value* of the coins in bag A to Bag B in its lowest terms  ___ : ___\n\n[https://www.youtube.com/watch?v=66wMblKLYJc](https://www.youtube.com/watch?v=66wMblKLYJc)",
+                                ""
+                            ],
+                            "title": "coin ratio",
+                            "comment": "50,20,10\n5,2\ncoprime(d)\n5..10\ng/HCF(g,h)\nh/HCF(g,h)\na*c\nb*d"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Frank, Mary and Seth shared some sweets in the ratio $$ : $$ : $$\nSeth got $$ more sweets than Frank.\nWork out the total number of sweets they shared ___\n\n[https://www.youtube.com/watch?v=VkJKvOC3GYU](https://www.youtube.com/watch?v=VkJKvOC3GYU)",
+                                ""
+                            ],
+                            "title": "share sweets",
+                            "comment": "1\n2..5\n6..9\n(c-a)*f\n(a+b+c)*f\n5..9"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Kev invests £$$ in a low interest savings account for $$ years. At the end of that period he accumulated £$$.\n\nWhat was the % interest of the savings account? ___ %",
+                                ""
+                            ],
+                            "title": "compound interest 2",
+                            "comment": "1000*(2..9)\n5..10\nroundtodp(a*pow(1+d/100,b),2)\n0.1*(3..20)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "approximate ~[$$]($$ x $$) = ___",
+                                ""
+                            ],
+                            "title": "approximation",
+                            "comment": "round(b*c*d,1)\n(2..10)+(1 .. 5)*0.01\n(2..10)-(1 .. 5)*0.01\n(2..10)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "the three numbers are $$, $$ and $$\n\n\n\n\n\n\n\n\n\n\nHCF = ___\nLCM = ___",
+                                "| | 2 | 3 | 5\n|$$| | | \n|$$| | | \n|$$| | | \n"
+                            ],
+                            "title": "LCM and HCF three numbers",
+                            "comment": "pow(2,i)*pow(3,j)*pow(5,k)\npow(2,l)*pow(3,m)*pow(5,n)\npow(2,o)*pow(3,p)*pow(5,q)\npow(2,min(i,l,o))*pow(3,min(j,m,p))*pow(5,min(k,n,q))\npow(2,max(i,l,o))*pow(3,max(j,m,p))*pow(5,max(k,n,q))\na\nb\nc\n1..3\n1..2\n0..1\n1..3\n0..1\n1..2\n3..4\n0..1\n0..1\n"
+                        }
+                    ],
+                    "name": "Number and ratio",
+                    "assignedNotes": []
+                },
+                {
+                    "rows": [
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Solve ($$ - x)^2 $$ $$\n\nx < ___\nx > ___",
+                                ""
+                            ],
+                            "title": "quadratic inequality 2",
+                            "comment": "2..9\n\"<\",\">\"\n4,9,16,25,36,49\na+sqrt(c),a-sqrt(c)\na-sqrt(c),a+sqrt(c)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The functions f and g are such that \n\nf(x) = $$x + $$\ng(x) = ax + b\n\ng($$) = $$ and f^-1 ($$) = g($$)\n\nFind the value of a and the value of b\n\na = __\nb = __",
+                                ""
+                            ],
+                            "title": "composite functions 3",
+                            "comment": "2*(1..3)\n1..5\n2*(1..3)-1\ng*c+h\na*(g*f+h)+b\n2*(1..3)\n2*(1..3)-1\n1..5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The graph of the curve C with equation y = f(x) is transformed to give the graph of the curve S with equation f($$x) + $$\n\nThe point on C with coordinates ($$,$$) is mapped to the point Q on S. Find the coordinates of Q. (__, __)",
+                                ""
+                            ],
+                            "title": "transformed point",
+                            "comment": "(-5,-2),(2,5)\n(2..5),(-5..-2)\n(2..5)\n(2..5)\nc/a\nd+b"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Express 2x^2 $$x $$ in the form 2(x + p)^2 + q\n\np = ___\nq = ___",
+                                ""
+                            ],
+                            "title": "complete the square 2",
+                            "comment": "includesign(4*c)\nincludesign(2*c*c+d)\n(-5..-2),(2..5)\n(-5..-2),(2..5)\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "show that ~[(√$$ + √$$)^2](√$$ - $$) can be written a√$$ + b\nwhere \na = ___\nb = ___",
+                                ""
+                            ],
+                            "title": "sea of surds",
+                            "comment": "h*h*b\n2..3\ni*i*b\n2..3\nb\n(abs(h)+1)*(abs(h)+1)*b*i/(i*i*b-d*d)\n(abs(h)+1)*(abs(h)+1)*b*d/(i*i*b-d*d)\ni*i*b-d*d-1\n1..2"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "If n is a positive integer, ($$n + $$)^2 -  ($$n - $$)^2 is always a multlple of what number? ___",
+                                ""
+                            ],
+                            "title": "always a multiple",
+                            "comment": "2..4\n(a+1)..5\na\nb\n4*a*b"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Prove algebraically that $$\n\n[https://www.youtube.com/watch?v=OEu-0mrLuwM](https://www.youtube.com/watch?v=OEu-0mrLuwM)",
+                                ""
+                            ],
+                            "title": "Prove it",
+                            "comment": "\"the difference between the squares of any two consecutive odd numbers is a multiple of 8\",\"the difference between the squares of any two consecutive even numbers is a multiple of 4\",\"the difference between the square of a multiple of 3 and the square of the next highest number is one more than a multiple of 6\",\"the difference between the squares of any two consecutive multiples of 3 is a multiple of 9\",\"the difference between the squares of any two consecutive numbers is odd\",\"the difference between the squares of any two alternate consecutive odd numbers e.g. 7^2 - 3^2 is a multiple of 4\",\"the sum of three consecutive numbers is a multiple of three\",\"the square of any odd number is one more than a multiple of 4\""
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Express ~[$$x^2 $$x $$]($$x^2 $$x $$) in the form ~[ax + b](cx + d)\n\na = ___\nb = ___\nc = ___\nd = ___\n\n[https://www.youtube.com/watch?v=3Rbp9sWN9jg](https://www.youtube.com/watch?v=3Rbp9sWN9jg)",
+                                ""
+                            ],
+                            "title": "quadratic fractions",
+                            "comment": "g*k\nincludesign(g*l+k*h)\nincludesign(l*h)\nk*i\nincludesign(i*l+k*j)\nincludesign(l*j)\n1\n1..5\n2,3\n-5,-2,-3,-1\n3,2\n-5,-1,-2,-3"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Express in terms of ~[ax](x + b)\n\n~[$$x^2 $$x $$]($$x^$$ $$x^$$) x ~[$$x^$$]($$x^2 $$x $$)\n\na = __\nb = __\n\n[https://www.youtube.com/watch?v=hLbR6xj7320](https://www.youtube.com/watch?v=hLbR6xj7320)",
+                                ""
+                            ],
+                            "title": "simplifying algebra fractions",
+                            "comment": "2\nincludesign(2*p+o)\nincludesign(o*p)\n2..4\ng+1\nincludesign(d*p)\n2..3\nm*d\ne\n2\nincludesign(2*n+o)\nn*o\n2..3\n(p+1)..5\n-5,-3,-1\n2..3"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "x is a *whole number*:\n\n$$x $$ $$ $$ $$x\n\nWhat is the $$ value of x which satisfies the equation? ___\n\n[https://www.youtube.com/watch?v=YCFEOrSAqbE](https://www.youtube.com/watch?v=YCFEOrSAqbE)",
+                                ""
+                            ],
+                            "title": "inequality",
+                            "comment": "(-5..-1),(1..5)\nincludesign(h)\n\">\"\n2..10\nincludesign(i)\nif(a>i,\"smallest\",\"largest\")\nif(a>i,k,j)\n(-5..-1),(1..5)\na+((-5..-1),(1..5))\nfloor((d-h)/(a-i)-0.001)\nceil((d-h)/(a-i)+0.001)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Express x^2 $$x $$ in the form (x + p)^2 + q\n\np = ___\nq = ___\n\n[https://www.youtube.com/watch?v=aA8QQlQLAOk](https://www.youtube.com/watch?v=aA8QQlQLAOk)",
+                                ""
+                            ],
+                            "title": "complete the square",
+                            "comment": "includesign(2*c)\nincludesign(c*c+d)\n(-5..-2),(2..5)\n(-5..-2),(2..5)\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Factorise:\n\n2x^2 $$x $$ = (2x + __) ( x + __)\n\n[https://www.youtube.com/watch?v=3wrDfyc1Xtw](https://www.youtube.com/watch?v=3wrDfyc1Xtw)",
+                                ""
+                            ],
+                            "title": "factorise harder quadratic ",
+                            "comment": "includesign(2*f+e)\nincludesign(e*f)\ne\nf\n(-5,-3,-1),(1,3,5)\n1..5\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Show that ~[1]($$x^2 $$x $$) ÷ ~[1]($$x^2 $$) simplifies to ~[ax + b](cx + d) where a,b,c and d are integers\n\na = __\nb = __\nc = __\nd = __\n\n[https://www.youtube.com/watch?v=uoKVKd1bZXE](https://www.youtube.com/watch?v=uoKVKd1bZXE)",
+                                ""
+                            ],
+                            "title": "algebraic fractions",
+                            "comment": "h*f\nincludesign(i*f-g*h)\nincludesign(-1*i*g)\nf*f\nincludesign(-1*g*g)\n3\n-2,-1,1,2\n2\n-3,-1,1,3"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Solve : \n\n~[$$](x + $$) - ~[$$](x + $$) = $$\n\nx = ___\n\n[https://www.youtube.com/watch?v=HCWUmMSkzJ4](https://www.youtube.com/watch?v=HCWUmMSkzJ4)",
+                                ""
+                            ],
+                            "title": "algebra fractions",
+                            "comment": "g*(f+b)\n1..4\nh*(f+d)\n5-b\ng-h\n2,3,4\n3,4,2\n4,2,3"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Express √$$^-$$ in the form ~[√p](q) where a and b are values to be found\n\np = ___\nq = ___",
+                                ""
+                            ],
+                            "title": "surds to the power",
+                            "comment": "2,3\n3,5,7,9\na\npow(a,(b+1)/2)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "solve the two simultaneous equations\nx^2 + y^2 = $$\n\n$$x + $$y = $$\n\nbiggest x = __ y = __\nsmallest x = __ y = __\n\n[https://www.youtube.com/watch?v=vlZ9p7fEkrw](https://www.youtube.com/watch?v=vlZ9p7fEkrw)\n[https://youtu.be/5gwdZw8ziJI](https://youtu.be/5gwdZw8ziJI)",
+                                ""
+                            ],
+                            "title": "quadratic simultaneous equations",
+                            "comment": "e*e+f*f\n\" '\"\n2..3\ne+c*f\n1..3\n1..3\nd-c*h\n(c*(d+e)-f)/(1+c*c)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Find x when:\n\n$$^x  = $$^$$/$$\n\nx = ___ / ___",
+                                ""
+                            ],
+                            "title": "Algebraic indices 1",
+                            "comment": "3,9,27,2,4,8\n27,3,9,8,2,4\n2..(d-1)\n3..5\ni / HCF(i,j)\nj / HCF(i,j)\n1,2,3\n3,1,2\nb*c\na*d"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Find x when:\n\n$$^x  = $$^$$/$$\n\n.\n.\nx = ~[___](___)",
+                                ""
+                            ],
+                            "title": "Algebraic indices 1",
+                            "comment": "(3,9,27)\n(27,3,9)\n2..(d-1)\n3..5\ni / HCF(i,j)\nj / HCF(i,j)\n(1,2,3)\n(3,1,2)\nb*c\na*d"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Find x when:\n\n$$^x  = $$^$$/$$\n\nx = ___ / ___",
+                                ""
+                            ],
+                            "title": "Algebraic indices 1",
+                            "comment": "(2,4,8)\n(8,2,4)\n2..(d-1)\n3..5\ni / HCF(i,j)\nj / HCF(i,j)\n(1,2,3)\n(3,1,2)\nb*c\na*d"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "find x where $$^$$ x $$^$$ = $$^x\n\nx = ___",
+                                ""
+                            ],
+                            "title": "indices",
+                            "comment": "e*e\n(2..5)\ne*e*e\n(2..5)\n2..3\n2*b+3*d\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Find x when:\n\n$$^x ÷ $$^1/$$ = $$^1/$$\n\nx = ___ / ___",
+                                ""
+                            ],
+                            "title": "Algebraic indices 2",
+                            "comment": "(3,9,27)\n(27,3,9)\n2..5\n(9,27,3)\n2..5\nk / HCF(k,l)\nl / HCF(k,l)\n(1,2,3)\n(3,1,2)\n(2,3,1)\n(c*j+i*e)\ne*c*h"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Find x when:\n\n$$^x x $$^1/$$ = $$^1/$$\n\nx = ___ / ___",
+                                ""
+                            ],
+                            "title": "Algebraic indices 2",
+                            "comment": "(2,4,8)\n(8,2,4)\n2..5\n(4,8,2)\n2..5\nk / HCF(k,l)\nl / HCF(k,l)\n(1,2,3)\n(3,1,2)\n(2,3,1)\n(c*j-i*e)\ne*c*h"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Find x when:\n\n$$^x x $$^1/$$ = $$^1/$$\n\nx = ___ / ___",
+                                ""
+                            ],
+                            "title": "Algebraic indices 2",
+                            "comment": "(3,9,27)\n(27,3,9)\n2..5\n(9,27,3)\n2..5\nk / HCF(k,l)\nl / HCF(k,l)\n(1,2,3)\n(3,1,2)\n(2,3,1)\n(c*j-i*e)\ne*c*h"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Find x when:\n\n$$^x ÷ $$^1/$$ = $$^1/$$\n\nx = ___ / ___",
+                                ""
+                            ],
+                            "title": "Algebraic indices 2",
+                            "comment": "(2,4,8)\n(8,2,4)\n2..5\n(4,8,2)\n2..5\nk / HCF(k,l)\nl / HCF(k,l)\n(1,2,3)\n(3,1,2)\n(2,3,1)\n(c*j+i*e)\ne*c*h"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![img](https://teachometer.co.uk/uploadedImages/Wp91i4m.png)\n@[2,2](y=$$)\n@[0,45](y=$$)\n@[93,42](360)\n",
+                                "y = __ sinx + ___"
+                            ],
+                            "title": "equation of sin curve 1",
+                            "comment": "c+d\nd\n2..5\n2..5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![img](https://teachometer.co.uk/uploadedImages/Skgz78z.png)\n@[4,50](x=$$)\n@[48,42](x=$$)\n@[16,4](1)\n",
+                                "y = sin(___x + ___)"
+                            ],
+                            "title": "equation of sin curve 2",
+                            "comment": "-5*(2..5)\na+180/c\n2..5\n-1*a*c"
+                        }
+                    ],
+                    "name": "Algebra",
+                    "assignedNotes": []
+                },
+                {
+                    "rows": [
+                        {
+                            "title": "book worm",
+                            "leftRight": [
+                                "Kev enjoys reading. He starts a new book by reading *a* pages of the book.\nOn each subsequent day, he reads *d* more pages than the day before. For example, on the second day he reads *a+d* pages.\nOn day $$, Kev reads $$ pages.\nBy the end of day $$, Kev's  reaches page number $$ in the book.\n\nFind a and d\n\na = __\nd = __",
+                                ""
+                            ],
+                            "purpose": "template",
+                            "comment": "5..10//n\ne+(a-1)*f//un\na //n\na/2*(e+b)//Sn\n20..29 //a\n2..9 //d"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The number of termites living in a termite hill at the beginning of year  t is given by P~t .\n\nP~t+1 = $$ P~t  \n\nGiven that the number of termites at the beginning of year 1 was $$, calculate the number of termites at the beginning of year $$ \n\n___ termites",
+                                ""
+                            ],
+                            "title": "termites",
+                            "comment": "1+0.01*(2..9)\n(2..9)*1000\n3..5\nb*pow(a,c-1)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/iv5ltzx.png)\n",
+                                "The line AC intersects the x-axis at point B. AB = BC.\nGiven the points A and B, find C\nA: (0,$$)\nB: ($$,0)\n\nC: (___,___)\n\n[https://youtu.be/ZNURGiRIeDw](https://youtu.be/ZNURGiRIeDw)"
+                            ],
+                            "title": "Slide",
+                            "comment": "(5..10)\n(5..10)\n2*b\n-a"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The curve with equation x^2 $$x $$ is reflected in the $$\n\nWhat is the equation of the reflected curve? __ x^2 + __ x + ___\n\n[https://www.youtube.com/watch?v=047XCm7W93Q](https://www.youtube.com/watch?v=047XCm7W93Q)",
+                                ""
+                            ],
+                            "title": "reflected curve",
+                            "comment": "includesign(-1*e)\nincludesign(-1*f,f)\n\"y-axis\",\"x-axis\"\n1,-1\n-5,-2,3\n-4,-1,1,4"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A minimum point occurs in the curve of f(x) at ($$,$$)\n\nWhat would be the coordinates of the minimum point of the curve with equation:\n\n|f(x $$)|(__,__)\n|$$f(x)|(__,__)\n|f($$x)|(__,__)\n|f(x) $$|(__,__)\n\n[https://www.youtube.com/watch?v=xDtndpZeAgY](https://www.youtube.com/watch?v=xDtndpZeAgY)",
+                                "![Imgur](https://teachometer.co.uk/uploadedImages/HdK77GE.png)"
+                            ],
+                            "title": "new minimum",
+                            "comment": "2..5\n-10..-6\nincludesign(o)\na-o\nb\np\na\np*b\nq\na/q\nb\nincludesign(r)\na\nb+r\n(-5..-2),(2..5)\n2,5,10,0.2,0.1,0.5\n5,10,0.2,0.1,0.5\n(2..5),(-5..-2)\n\n\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The first three terms of a fibonacci sequence are a, b, a+b etc.\n\nThe $$ term of a sequence is $$ and the $$ term is $$\n\nFind a and b\na = ___\nb = ___\n\n[https://www.youtube.com/watch?v=Vfq9jMT3gXg](https://www.youtube.com/watch?v=Vfq9jMT3gXg)",
+                                ""
+                            ],
+                            "title": "fibonacci",
+                            "comment": "\"third\",\"fourth\",\"fifth\"\n(e+f),(e+2*f),(2*e+3*f)\n\"sixth\",\"seventh\"\n(3*e+5*f),(5*e+8*f)\n1..3\n4..6"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The points A, B and C lie in order on a straight line\nA: ($$,$$)\nB: ($$, __)\nC: (__, $$)\n\nGiven that AC = $$AB, find the missing values of the coordinates\n\n[https://www.youtube.com/watch?v=zFULvjMzeEg](https://www.youtube.com/watch?v=zFULvjMzeEg)",
+                                ""
+                            ],
+                            "title": "three points on a line",
+                            "comment": "2..5\n2..5\n6..10\n6..10\na+g*(c-a)\nb+g*(d-b)\n3..5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "|n|1|2|3|4\n|f(n)|$$|$$|$$|$$\n| | | | |\n| | | | |\n| | | | |\n| | | | |\n| | | | |\n\n\n[https://www.youtube.com/watch?v=S_QddunLQIE](https://www.youtube.com/watch?v=S_QddunLQIE)",
+                                "\nf(n) = __ n^2 + __ n + ___"
+                            ],
+                            "title": "quadratic nth term",
+                            "comment": "e+f+g\ne*4+f*2+g\ne*9+f*3+g\ne*16+f*4+g\n(1..3)\n((1..5),0)\n(0,(1..5))"
+                        },
+                        {
+                            "purpose": "teacher-notes",
+                            "leftRight": [
+                                "C is the curve with equation y = x^2 $$x $$\nL is the straight line with equation y = $$x $$\nL intersects C at two points A and B\n\nCalculate the exact length of AB ____\n\n[https://www.youtube.com/watch?v=ORSVGbdvvWI](https://www.youtube.com/watch?v=ORSVGbdvvWI)",
+                                ""
+                            ],
+                            "title": "distance between intersections",
+                            "comment": "includesign(c-f-h)\nincludesign(f*h+d)\n(2..3)\nincludesign(-3,-2,-1,1,2,3)\nsqrt((f-h)*(f-h)+(g-i)*(g-i))\n-5..-1\nc*f+d\n1..5\nc*h+d"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "f(x) = $$x $$\n\nThe inverse f^-1 (x) can be expressed in the form f^-1 (x) = px + q. Find p and q \n\np = ___\nq = ___\n\n[https://www.youtube.com/watch?v=84EOJ67Iuj8](https://www.youtube.com/watch?v=84EOJ67Iuj8)",
+                                ""
+                            ],
+                            "title": "inverse function",
+                            "comment": "0.5,0.25,2,4,5\nincludesign(-1*a*d)\n1/a\n2..10"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A has coordinates ($$,$$)\nB has coordinates ($$,$$)\nC has coordinates ($$,$$)\n\nFind the equation of the line that passes through C and is perpendicular to the line that passes through A and B\n\nGive your answer in the form y = mx + c\n\ny = ___ x + ___\n\n[https://www.youtube.com/watch?v=8pq5J3uVC94](https://www.youtube.com/watch?v=8pq5J3uVC94)",
+                                ""
+                            ],
+                            "title": "Three points two lines",
+                            "comment": "g*(i-b)\n2..5\ng*(i-d)\na+(2..5)\n2..5\ng*e+h\n2..5\n3..10\n3..10"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Solve for x:\n\n$$x $$ $$ $$ $$x\n\nx {>/<} ___\n\n[https://www.youtube.com/watch?v=UUUr7x-ZXsI](https://www.youtube.com/watch?v=UUUr7x-ZXsI)",
+                                ""
+                            ],
+                            "title": "inequality",
+                            "comment": "(-5..-1),(1..5)\nincludesign(d+(h-a)*g)\n\">\",\"<\"\n2..10\nincludesign(h)\n(if(a>h,\">\",\"<\")),(if(a>h,\"<\",\">\"))\na+((-5..-1),(1..5))\n(-5..-1),(1..5)\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "x^3 + $$x = $$\n\nA solution to the equation above lies between which two values of x? \nA. 0 < x <  1\nB. 1 < x <  2\nC. 2 < x <  3\n\n[https://www.youtube.com/watch?v=EHwNwC4fzsk](https://www.youtube.com/watch?v=EHwNwC4fzsk)",
+                                ""
+                            ],
+                            "title": "approximate solutions",
+                            "comment": "5..10\nround(d*d*d+a*d)\n\"A\",\"B\",\"C\"\n(3..7)*0.1 + (0,1,2)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "g(x) = ~[$$x]($$ - x)\n\nf(x) = $$x - $$\n\nfind the positive value of x such that g^-1 (x) = f(x)\n\nx = ___\n\n\n[https://www.youtube.com/watch?v=3tWs_YarJiM](https://www.youtube.com/watch?v=3tWs_YarJiM)",
+                                ""
+                            ],
+                            "title": "composition of functions 2",
+                            "comment": "c*d\na*c-d\n2..5\ncoprime(c)\nsqrt(a*d/c)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A ($$, $$) B ($$, $$) and C ($$, k) are the vertices of a right angles triangle ABC. Angle ABC is the right angle.\n\nFind an equation of the line that passes through A and C. \n\nGive your answer in the form ay + bx = c where a, b and c are integers\n\na = ___\nb = ___\nc = ___\n\n[https://www.youtube.com/watch?v=kgLMzxsdrKc](https://www.youtube.com/watch?v=kgLMzxsdrKc)",
+                                ""
+                            ],
+                            "title": "RA triangle",
+                            "comment": "c-j*(d-b)\n1..3\n6..8\n4..6\n3..5\ne-a\nb-i\nb*e-a*i\nd+j*(c-e)\n2..4"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Triangle A has coordinates ($$,$$) ($$,$$) and ($$,$$)\nTriangle B has coordinates ($$,$$) ($$,$$) and ($$,$$)\n\nDescribe the rotation that maps triangle A onto triangle B\n90 degrees {clockwise/anticlockwise} about the point (__,__)",
+                                "![image](https://teachometer.co.uk/uploadedImages/0x2RJkW.gif)"
+                            ],
+                            "title": "rotations",
+                            "comment": "n+p\no+q\na+r\nb-s\na\nd\nn-q,n+q\no+p,o-p\ng+s,g-s\nh+r,h-r\ni\nh\n\"anticlockwise\",\"clockwise\"//m - clockwise or anti\n-2..2 //point of rotation x n\n-2..2 //point of rotation y o\n-3,-2,2,3 //distance from POR p\n-3,-2,1,2,3 //distance from POR  q\n3 //triangle size r\n1,2 //triangle size s\n\n\n\n\n\n\n\n\n\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A yoyo is dropped from a person's hand.\nThe length of the yoyo string is described using the function:\n\nL = $$t - $$t^2\n\nUse algebra to find the longest length of the yoyo before it rolls back up at time t = $$.\n\nL~max = ____\n ",
+                                ""
+                            ],
+                            "title": "yoyo",
+                            "comment": "b*c\n2..5\n6,8,10,12\na*0.5*c-0.25*b*c*c"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "complete the iteration:\n\nx~n+1 = ~3 √($$x + $$)\n\nx~0 = 1\nx~1 = ___\nx~2 = ___\nx~3 = ___",
+                                ""
+                            ],
+                            "title": "iterative solution",
+                            "comment": "1..(b-1)\n5..10\npow((a*1+b),1/3)\npow((a*c+b),1/3)\npow((a*d+b),1/3)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "f(x) = $$x + $$\ng(x) = kx^2\n\nFind k if fg($$) = $$\n\nk = ___\n\n[https://www.youtube.com/watch?v=B-XN8t1-HpQ](https://www.youtube.com/watch?v=B-XN8t1-HpQ)",
+                                ""
+                            ],
+                            "title": "composition of functions",
+                            "comment": "2..3\n2..5\n2*(1..3)\na*e*c*c+b\n0.25*(2..9)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![img](https://teachometer.co.uk/uploadedImages/Wp91i4m.png)\n@[2,2](y=$$)\n@[0,45](y=$$)\n@[93,42](360)\n",
+                                "y = __ sinx + ___"
+                            ],
+                            "title": "equation of sin curve 1",
+                            "comment": "c+d\nd\n2..5\n2..5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![img](https://teachometer.co.uk/uploadedImages/Skgz78z.png)\n@[4,50](x=$$)\n@[48,42](x=$$)\n@[16,4](1)\n",
+                                "y = sin(___x + ___)"
+                            ],
+                            "title": "equation of sin curve 2",
+                            "comment": "-5*(2..5)\na+180/c\n2..5\n-1*a*c"
+                        }
+                    ],
+                    "name": "Sequences functions and graphs",
+                    "assignedNotes": []
+                },
+                {
+                    "rows": [
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![](http://teachometer.co.uk/v2/_uploadedUserImages/107517778364202263573/3687002109.png)\n@[23,70]($$cm)\n@[50,80]($$^o)",
+                                "Calculate the perimeter of the sector ___ cm"
+                            ],
+                            "title": "Perimeter of sector",
+                            "comment": "2..10\n(2..8)*10\n2*a*π*b/360+2*a"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![](http://teachometer.co.uk/v2/_uploadedUserImages/107517778364202263573/3687002109.png)\n@[23,70]($$cm)\n@[50,80]($$^o)",
+                                "Calculate the area of the sector ___ cm^2"
+                            ],
+                            "title": "Area of sector",
+                            "comment": "2..10\n(2..8)*10\na*a*π*b/360"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The straight line L~1 passes through the points ($$,$$) and ($$,$$)\nThe straight line L~2 passes through the origin and has gradient $$\n\nThe lines intersect at point P\nFind the coordinates of P (___,___)",
+                                ""
+                            ],
+                            "title": "interesection of lines",
+                            "comment": "2..5\nh*a+i\n6..10\nh*c+i\n-5..-2\n-5..-2\ne*f\n2..5\ng-h*f"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "RS and ST are 2 sides of a regular $$ sided polygon. RT is the diagonal of the polygon.\nWork out the size of angle STR. ___ ^o",
+                                "![Imgur](https://imgur.com/M5ErPII.png)"
+                            ],
+                            "title": "polygon angles 2",
+                            "comment": "10..20\n180/a"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![](http://www.teachometer.co.uk/uploadedImages/20210415.png)",
+                                "The shape is made from a triangle and a sector of a circle.\nWhat is the perimeter of the shape? ____ cm\n\nThe circle has radius $$ cm.\nAngle AOC = $$ ^o\nAngle OAD = $$ ^o\nAD = $$ cm\n"
+                            ],
+                            "title": "needle threader",
+                            "comment": "2*π*b*(360-c)/360 + e + e/sind(c)*sind(d) - b//perimeter\n5..9//radius\n10*(11..15)//aoc\n90-0.5*c+(5,10,15)//oad\n2*b + (2..5)//ad"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/iapky9q.png)\n@[15,35]($$ cm)\n@[20,95]($$ cm)\n@[47,60]($$ °)\n@[65,0](___ cm)",
+                                "Fill in the missing sides and angles"
+                            ],
+                            "title": "two triangles",
+                            "comment": "20..30\n10..19\nmaxlength(f,5)\n15..25\nsqrt(a*a-b*b)\natand(d/e)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A metal cuboid has faces  with surface area $$, $$ and $$ cm^3 .\nThe cubiod is melted down to make smaller cubes of side $$ cm^3 .\nWhat is the largest number of these smaller cubes that can be made? ___",
+                                ""
+                            ],
+                            "title": "smaller cubes",
+                            "comment": "f*g\ng*h\nf*h\n0.1*(11..15)\nfloor(f*g*h/pow(d,3))\n2*(1..2)\n2*(1..2)+1\n2*(1..2)+5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![](http://www.teachometer.co.uk/uploadedImages/SkdFgxq.png)\nThe diagram shows a sector OACB of a circle with centre O.\nThe point C is the midpoint of the arc AB.\nThe diagram also shows a hollow cone with vertex O.\nThe cone is formed by joining OA and OB.\nThe cone has volume $$ cm^3 and height $$ cm.\n\nCalculate the size of angle AOB of sector OACB. ____ ^o",
+                                ""
+                            ],
+                            "title": "cone",
+                            "comment": "roundtodp(π*d*d*b/3,2)//volume\n0.1*(20..50)//height\n360*d/e//angle\n0.1*(20..50)//radius\nsqrt(b*b+d*d)//slant height"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![](http://www.teachometer.co.uk/uploadedImages/2021-04-22 23-06-00.png)\nShape S is one quarter of a solid sphere, centre O.\nThe volume of S is $$π cm^3 .\nFind the surface area of S.\n____ π cm^3",
+                                ""
+                            ],
+                            "title": "chocolate orange",
+                            "comment": "roundtodp(c*c*c/3,2) //volume\n2*c*c //SA\n5..12 //radius"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/W02A0EX.png)\n@[20,60]($$)\n@[24,30]($$)\n@[30,22]($$)\n@[70,30]($$)\n@[80,35]($$)\n@[75,65]($$)",
+                                ""
+                            ],
+                            "title": "circle angles",
+                            "comment": "(6..10)*5\n(6..10)*5\n180-2*a-b\na\nb\na"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/VyNVfNR.png)\n@[76,10]($$)\n@[57,48]($$)\n@[48,30]($$)\n@[75,44]($$)\n@[30,60]($$)\n@[70,58]($$)\n@[38,30]($$)\n",
+                                ""
+                            ],
+                            "title": "circle angles",
+                            "comment": "(3..5)*10\n180-a\n90-b/2\nc\nb/2\ne-d\n180-2*e-c"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/Bc1yRC9.png)\n@[40,18]($$)\n@[48,25]($$)\n@[27,67]($$)\n@[22,47]($$)\n@[65,48]($$)\n@[8,12]($$)\n@[55,20]($$)\n@[30,55]($$)\n",
+                                ""
+                            ],
+                            "title": "circle angles",
+                            "comment": "(13..15)*5\na\na\na\na\n180-2*a\nf\nf"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/SKaZXIJ.png)\n@[50,15]($$)\n@[77,58]($$)\n@[20,52]($$)\n@[25,67]($$)\n@[40,20]($$)\n@[78,28]($$)\n@[80,35]($$)\n@[75,70]($$)\n",
+                                ""
+                            ],
+                            "title": "circle angles",
+                            "comment": "(5..8)*5\na\na\na\n90-a\ne\ne\ne"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/iNJFtDW.png)\n@[55,18]($$)\n@[30,65]($$)\n@[40,15]($$)\n@[82,33]($$)\n@[75,28]($$)\n@[80,57]($$)\n@[85,50]($$)\n@[23,55]($$)\n",
+                                ""
+                            ],
+                            "title": "circle angles",
+                            "comment": "(4..7)*5\na\n90-a\nc\n(8..13)*5\ne\n180-a-c-e\ng"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/Yp22zbk.png)\n@[12,37]($$)\n@[82,45]($$)\n@[75,50]($$)\n@[27,29]($$)\n@[50,33]($$)\n@[38,37]($$)\n@[15,43]($$)",
+                                ""
+                            ],
+                            "title": "circle angles",
+                            "comment": "(4..7)*5\na\n(2..3)*5\n90-a\nd\n180-d\n180-c-f"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/HUDBqCd.png)\n@[35,78]($$)\n@[80,58]($$)\n@[40,15]($$)\n@[80,49]($$)\n@[63,85]($$)\n@[25,68]($$)",
+                                ""
+                            ],
+                            "title": "circle angles",
+                            "comment": "(3,4,5,7)*5\na\n2*a\nc\n180-2*a\n180-2*c"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/5wuiL6P.png)\n@[30,22]($$)\n@[78,32]($$)\n@[55,50]($$)\n",
+                                ""
+                            ],
+                            "title": "circle angles",
+                            "comment": "(3,4,5,7)*5\n90-a\n2*a"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/AxwgcTb.png)\n@[12,35]($$)\n@[72,67]($$)\n@[20,63]($$)\n@[45,55]($$)\n@[10,55]($$)\n",
+                                ""
+                            ],
+                            "title": "circle angles",
+                            "comment": "(10..13)*5\n90-a\nb\n2*a\na\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "On his first day in the peak district, Kev walked for $$km on a bearing of $$, then walked $$ km due East.\n\nAfter that, Kev had his lunch and then walked home in a straight line. How far did he walk on his return journey? ____ km\n\n[https://youtu.be/upa4BIO1TeQ](https://youtu.be/upa4BIO1TeQ)",
+                                ""
+                            ],
+                            "title": "peak district",
+                            "comment": "4..7\n20..50\n8..11\nsqrt(a*a+c*c-2*a*c*cosd(90+b))"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The area of an equilateral triangle is $$ cm^2. Find the length of one side __ cm",
+                                ""
+                            ],
+                            "title": "equilateral triangle",
+                            "comment": "roundtodp(b*b*sqrt(3)/4,2)\n2..9"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "What is the value of $$? \n\nA. 0  B. ~[1](2)   C. ~[√3](2)  D. ~[1](√2)  E. 1\nF. something else",
+                                ""
+                            ],
+                            "title": "recall sin and cos",
+                            "comment": "(\"sin0\",\"cos90\"),(\"sin30\",\"cos60\"),(\"sin45\",\"cos45\"),(\"sin60\",\"cos30\"),(\"sin90\",\"cos0\")\n\"A\",\"B\",\"D\",\"C\",\"E\""
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/rUo0awA.png)\n@[70,60]($$x m)\n@[45,30]($$x m)\n@[11,67]($$ m)",
+                                "A lawn is surrounded on three sides by a concrete path. The path is the same thickness all the way around.\nThe area of the lawn and the path is $$ m^2.\nFind x\n\nx = ___ m"
+                            ],
+                            "title": "garden path",
+                            "comment": "1..2\n3..5\n1..3\n(a*e+c)*(b*e+2*c)\n1..3"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/yTW4oYL.png)",
+                                "EAB and FDC are both right angles\nABCD, BEFC and AEFD are all rectangles.\nUse the information given to find the angle that line BF makes with the plane ABCD.\nBC = $$ cm\nCD = $$ cm\nCF = $$ cm\n\nangle FBD = ___ deg.\n"
+                            ],
+                            "title": "goal frame",
+                            "comment": "5..9\n10..15\nroundtodp(sqrt(b*b+e*e),2)\nroundtodp(atand(e/f),2)\n7..13\nsqrt(b*b+a*a)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![Imgur](https://teachometer.co.uk/uploadedImages/WhXU11U.png)\n@[30,60]($$°)\n@[55,65]($$cm)\n@[75,25](___cm)\n",
+                                "The triangle ABC has area $$cm^2.\n\nFind the missing side\n\n[https://www.youtube.com/watch?v=_QViBJ0dfaA](https://www.youtube.com/watch?v=_QViBJ0dfaA)"
+                            ],
+                            "title": "Tricky triangle",
+                            "comment": "roundtodp(acosd((b*b+e*e-c*c)/(2*b*e)),2)\n0.1*(150..170)\n0.1*(60..80)\nroundtodp(0.5*e*b*sind(a),2)\n0.1*(130..150)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/YnmKm7F.png)",
+                                "The diagram shows line AB which is a tangent to a circle, centred on the origin. \nPoint P lies at the intersection between AB and the circle and has coordinates ($$,$$)\n\nFind the coordinates of A and B\nA: (0, ___)\nB: (___, 0)\n\n[https://www.youtube.com/watch?v=6oAzrhIK_3M](https://www.youtube.com/watch?v=6oAzrhIK_3M)"
+                            ],
+                            "title": "Tangent",
+                            "comment": "1..3\n(2,5,10)\n(b*b+a*a)/b\nb*c/a"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/ALEP6OL.png)\n@[30,10]($$ cm)\n@[77,15]($$ cm)\n@[95,55]($$ cm)\n\n[https://www.youtube.com/watch?v=coVW7rl5-I0](https://www.youtube.com/watch?v=coVW7rl5-I0)",
+                                "Find the distance from one corner to the opposite corner (hypotenuse)\n\nhypotenuse = ___ cm\n "
+                            ],
+                            "title": "hypotenuse",
+                            "comment": "(2..5)\n a+(1..2)\n b+(1..2)\n sqrt(a*a+b*b+c*c)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The minute hand of a clock is $$ cm long.\nThe hour hand is $$ cm long.\nFind the distance from the end of the minute hand to the end of the hour hand at $$ o'clock.\n\n___ cm\n\n[https://www.youtube.com/watch?v=BUoqKgCJ-34](https://www.youtube.com/watch?v=BUoqKgCJ-34)",
+                                ""
+                            ],
+                            "title": "clock hands",
+                            "comment": "7..9\n4..6\n1,2,4,5,7,8,10,11\nsqrt(a*a+b*b-2*a*b*cosd(30*e))\nmin(12-c,c)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A buoyancy aid has been designed to have a volume of $$ cm^3 and density of $$ g/cm^3 .\nThere are two materials available and you must calculate the correct mass of each, in order to achieve the correct overall volume and density.\n\n|material|density (g/cm^3) |mass (g)\n|A| $$ |___\n|B| $$ |___\n\n[https://www.youtube.com/watch?v=rgfhW_ho2No](https://www.youtube.com/watch?v=rgfhW_ho2No)",
+                                ""
+                            ],
+                            "title": "Buoyancy aid",
+                            "comment": "g*i+h*i\n0.1*(6..9)\nb+g\nc*h*i\nb-h\ne*g*i\n0.1*(1..3)\n0.1*(4..6)\n(2..5)*50"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Pressure = ~[Force](Area)\n\nUse the equation to find the pressure exerted by a force of $$ N on an area of $$ $$.\nGive your answer in $$\n\nPressure = ___ $$\n\n[https://www.youtube.com/watch?v=hCprufoLVl0](https://www.youtube.com/watch?v=hCprufoLVl0)",
+                                ""
+                            ],
+                            "title": "pressure",
+                            "comment": "e*b*(0.0001,10000)\n(2..5)*(10,100,1000)\n\"cm^2\",\"m^2\"\n\"N/m^2\",\"N/cm^2\"\n(2..5)*(0.1,0.01,0.001)\n\"N/m^2\",\"N/cm^2\""
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Kev is trying to calculate the density of a block of wood in the shape of a cuboid.\n\nHe measures the dimensions as follows:\nlength: $$cm to the nearest 1cm\nwidth: $$cm to the nearest 1cm\nheight: $$cm to the nearest 1cm\n\nHe measures the mass as follows:\n$$g to the nearest 10g\n\nWhat is the $$ bound for the density of the block?\n$$ g/cm^3\n",
+                                ""
+                            ],
+                            "title": "Density bounds",
+                            "comment": "5..19\n5..19\n5..19\n(50..90)*10\n\"upper\",\"lower\"\n(d+5)/(a-0.5)/(b-0.5)/(c-0.5),(d-5)/(a+0.5)/(b+0.5)/(c+0.5)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Liquid A has a density of $$ g/cm^3\nLiquid B has a density of $$ g/cm^3\n\n$$ g of liquid A is mixed with $$ g of liquid B. Find the density of the mixture. ___ g/cm^3\n\n[https://www.youtube.com/watch?v=31QOCCw08ec](https://www.youtube.com/watch?v=31QOCCw08ec)",
+                                ""
+                            ],
+                            "title": "density mix",
+                            "comment": "e+f\ne-h\na*g*h\nb*f*g\n(8..10)*0.1\n(1..3)*0.1\n(2..5)*100\n(4..6)*0.1"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![Imgur](https://teachometer.co.uk/uploadedImages/mMqHwKv.png)",
+                                "Here is a pyramid with a square base. \nHL = $$ m\nThe vertex K is $$ m vertically above the midpoint of HJ\n\nCalculate the size of angle HJK ___ degrees\n\n[https://www.youtube.com/watch?v=iKgecL-RWKI](https://www.youtube.com/watch?v=iKgecL-RWKI)"
+                            ],
+                            "title": "square based pyramid",
+                            "comment": "2..9\n10..15\natand(b*sqrt(2)/a)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/zXvC8xq.png)",
+                                "AOB, BOC and COA are all right angles.\nUse the information provided to calculate angle BAC\nOA = $$ cm\nOB = $$ cm\nOC = $$ cm\n\nBAC = ___ °\n\ncos rule: b^2 + c^2 - a^2 = 2bc cosA\n\n[https://www.youtube.com/watch?v=OM1X6Nu1oIQ](https://www.youtube.com/watch?v=OM1X6Nu1oIQ)"
+                            ],
+                            "title": "tetrahedron",
+                            "comment": "5..10\n5..10\n5..10\nAcos(e)*57.295\na*a/Sqrt(a*a+c*c)/Sqrt(a*a+b*b)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A sphere is made from solid cheese with a density of $$ kg/m^3.\nThe sphere has a radius of $$ cm. \n\nCalculate its mass ____ kg\n\nVolume of a sphere = ~[4](3)πR^3",
+                                ""
+                            ],
+                            "title": "cheese ball",
+                            "comment": "500*(4..9)\n2..9\n4*π*b*b*b*a/3/1e6"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![](https://www.teachometer.co.uk/uploadedImages/kite.png)\n@[55,29]($$x $$)\n@[55,66]($$x $$)\n@[18,49]($$)\n@[84,49](y)",
+                                "Calculate the value of angle y = ___  ^o"
+                            ],
+                            "title": "kite",
+                            "comment": "2,4\nincludesign(g-a*h)\n3,5\nincludesign(g-c*h)\n360-2*g-f\n10*(2..5)\n10*(10..15)\n10*(1..5)\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Find the missing angle x\n\n = ____ ^o",
+                                "![Imgur](https://i.imgur.com/8ipNvEc.png)\n@[47,33]($$ cm)\n@[43,70]($$ cm)\n@[88,46]($$ cm)\n@[76,63](x)"
+                            ],
+                            "title": "cos rule",
+                            "comment": "acosd((c*c+d*d-b*b)/2/c/d)\n16..20\n13..15\n10..12"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Find the missing angle x\n\n = ____ ^o",
+                                "![Imgur](https://i.imgur.com/8ipNvEc.png)\n@[47,33]($$ cm)\n@[43,70]($$ cm)\n@[82,28]($$ ^o)\n@[76,63](x)"
+                            ],
+                            "title": "sin rule",
+                            "comment": "acosd((c*c+e*e-b*b)/2/c/e)\n16..20\n13..15\nroundtodp(acosd((e*e+b*b-c*c)/2/e/b),1)\n10..12"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/elfRWY8.png)\n@[50,40](__)\n@[0,40](__)\n@[35,85]($$)\n@[64,67]($$°)\n",
+                                "You may need to recall the formulae for sine rule, cosine rule or area of a triangle. You are not given them in the exam."
+                            ],
+                            "title": "right angled trig",
+                            "comment": "(2..10)\nroundtodp(a*sind(d),2)\nroundtodp(a*cosd(d),2)\n(11..42)"
+                        }
+                    ],
+                    "name": "Geometry trigonometry and measures",
+                    "assignedNotes": []
+                },
+                {
+                    "rows": [],
+                    "name": "Vectors and transformations",
+                    "assignedNotes": []
+                },
+                {
+                    "rows": [
+                        {
+                            "title": "Nits",
+                            "leftRight": [
+                                "There are a total of $$ children in years 4 5 and 6\n$$ of those children have nits\n\n$$ children in Year 4 have nits\n$$ children in Year 5 do not have nits\n\n$$ of the $$ children in Year 6 do not have nits\n\nHow many children in Year 4 do  not have nits? ____\n\nHow many children are in Year 5? ___",
+                                ""
+                            ],
+                            "purpose": "template",
+                            "comment": "b+k //a\nc+i+j//b\n11..20//c\n11..20//d\n11..20//e\nj+e//f\n2..10//g\ni+d//h\n2..10//i\n2..10//j\ng+d+e//k\nc+g//l"
+                        },
+                        {
+                            "title": "Animal crisps",
+                            "leftRight": [
+                                "Kev wants to make a pie chart about his collection of animal-shaped crisps\n\nComplete the table showing the angle for each section of the pie chart\n\n||Number of crisps|Degrees\n|Mammals|$$|__\n|Insects|$$|__\n|Birds|$$|__\n|Fish|$$|__",
+                                ""
+                            ],
+                            "purpose": "template",
+                            "comment": "1..(i/4)\na/i*360\n1..(i/4)\nc/i*360\n1..(i/4)\ne/i*360\ni-a-c-e\nf/i*360\n18, 20, 24, 30, 36, 40, 45, 60, 72, 90"
+                        },
+                        {
+                            "title": "Mileage",
+                            "leftRight": [
+                                "50 car owners take part in a survey and give information about the mileage, m of their cars.\n\n|miles per gallon|Frequency\n|0 <  m < 20|$$\n|20 < m < 40|$$\n|40 < m < 60|$$\n|60 < m < 80|$$\n|80 < m < 100|$$",
+                                "Estimate the mean mileage in miles per gallon ___"
+                            ],
+                            "purpose": "template",
+                            "comment": "1..3\n5..10\n50 - a - b - d - e\n10..15\n5..9\n(10*a+30*b+50*c+70*d+90*e)/50"
+                        },
+                        {
+                            "title": "Basketball team",
+                            "leftRight": [
+                                "\nAfter $$ games, Kev's basketball team had a mean score of $$ points per game\nAfter the last game of the season their mean score was $$ points higher \n\nHow many points were scored in the last game of the season? ___",
+                                ""
+                            ],
+                            "purpose": "template",
+                            "comment": "9..15\n10..20\n2..3\n(a+1)*(b+c) - a*b"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The probability that a biased coin shows Heads four times in a row equals $$.\n\nFind the probability that it shows Tails four times in a row ____",
+                                ""
+                            ],
+                            "title": "biased coin",
+                            "comment": "pow(c,4)\npow((1-c),4)\n0.1*(1..9)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![]($$)\n@[5,20](f.d.)\n@[50,90](x)",
+                                "A survey was conducted to find out how many hours people slept. \nComplete the missing information\n\n|number of hours sleep|number of people\n|0 < x < $$|$$\n|$$ < x < $$|___\n|$$ < x < $$|___\n\nCalculate the mean number of hours sleep: ___\n\n[https://www.youtube.com/watch?v=DKYzhZL4vjM](https://www.youtube.com/watch?v=DKYzhZL4vjM)"
+                            ],
+                            "title": "hours sleep",
+                            "comment": "\"https://i.imgur.com/e4ozSO3.png\",\"https://i.imgur.com/CuwGYqD.png\",\"https://i.imgur.com/V66qPce.png\",\"https://i.imgur.com/Iol1q4E.png\",\"https://i.imgur.com/bVliyRE.png\"\n(3,2,2,1,1)*k\n(9,6,4,3,4)*k*l\nb\n(4,3,4,3,2)*k\n(4,4,8,8,3)*k*l\ne\n(5,5,5,5,5)*k\n(2,4,3,4,6)*k*l\n(2.4333,2.2857,2.7667,2.2333,2.1154)*k\n2..5\n2..5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A nonsense word is any combination of letters e.g. AAA AAB AAC AAD\nHow many unique three-letter words can be made using the letters from A to $$...\n\nif each letter can be used any number of times?  ___\nif each letter can only be used once?  ___\n\n",
+                                ""
+                            ],
+                            "title": "nonsense words",
+                            "comment": "\"D\",\"E\",\"F\",\"G\",\"H\"\npow(d,3)\nfactorial(d)/factorial(d-3)\n4,5,6,7,8"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "There are $$ boys in a class, with an average of $$ marks.\nThere are $$ girls in a class.\nThe class average is $$. What is the girl's average mark? ___",
+                                "| |number|average|sum\n|boys| | | \n|girls| | | \n|total| | | "
+                            ],
+                            "title": "combining averages",
+                            "comment": "f*g\nd-h\ng*h\n10..20\nd+f\n2..5\n2..5\n6..10"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![]($$)",
+                                "Which expression is described by the diagram on the left?\n{A/A'} {Union/Intersection} {B/B'}"
+                            ],
+                            "title": "Venn diagrams",
+                            "comment": "\"https://teachometer.co.uk/uploadedImages/cXpcjx1.gif\",\"https://teachometer.co.uk/uploadedImages/R42wXgA.gif\",\"https://teachometer.co.uk/uploadedImages/T3zKtJT.gif\",\"https://teachometer.co.uk/uploadedImages/hSSllum.gif\",\"https://teachometer.co.uk/uploadedImages/QDyzlQi.gif\",\"https://teachometer.co.uk/uploadedImages/c7hOKpj.gif\",\"https://teachometer.co.uk/uploadedImages/0xifHcB.gif\",\"https://teachometer.co.uk/uploadedImages/a9lqpy2.gif\"\n\"A\",\"A\",\"A\",\"A'\",\"A'\",\"A'\",\"A'\",\"A\"\n\"Intersection\",\"Intersection\",\"Union\",\"Intersection\",\"Intersection\",\"Union\",\"Union\",\"Union\"\n\"B\",\"B'\",\"B\",\"B\",\"B'\",\"B\",\"B'\",\"B'\""
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/Hx6db8H.png)\n@[7,0](f.d.)\n@[10,18]($$)\n@[10,43]($$)\n@[10,56]($$)\n@[14,99]($$)\n@[34,99]($$)\n@[54,99]($$)\n@[73,99]($$)\n@[85,99](score)",
+                                "The histogram shows a distribution of test scores. Find the median\n\nmedian score =  ___\n\n[https://www.youtube.com/watch?v=GxQfXtnsMAU](https://www.youtube.com/watch?v=GxQfXtnsMAU)"
+                            ],
+                            "title": "histogram median",
+                            "comment": "b+(1..3)\nc+(1..3)\n2..9\n10*(3..5)\nd+(1..2)*10\ne+(1..2)*10\nf+(1..2)*10\ne+(0.5*i-b*(e-d))/a\nb*(e-d)+a*(f-e)+c*(g-f)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Kev wants to estimate the number of tadpoles in a pond.\nHe catches $$ of the tadpoles and draws a tiny moustache on each one with a special pen.\nA week later he returns to the pond and catches $$ of the tadpoles.\n$$ of them are still wearing moustaches.\n\nWhat is the best estimate of the number of tadpoles in the pond? ___\n\n(assume that none of the original tadpoles lost their original moustaches, and that none of the un-moustached tadpoles grew new ones, and that none died, or were kidnapped, or emigrated)\n\n\n[https://www.youtube.com/watch?v=-6bZZNWDr0o](https://www.youtube.com/watch?v=-6bZZNWDr0o)",
+                                ""
+                            ],
+                            "title": "tadpoles",
+                            "comment": "10*(2..9)\n10*(2..9)\n5..9\na*b/c"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "There are $$ milk chocolates and $$ dark chocolates in a box.\nWhen a chocolate is taken from the box, it is eaten!\n\nAfter taking two chocolates, what is the probability that I ...\n\n...ate one milk and one dark? ___\n...ate two of the same type of chocolate? ___\n\n[https://www.youtube.com/watch?v=NY2HwZO5HwA](https://www.youtube.com/watch?v=NY2HwZO5HwA)",
+                                ""
+                            ],
+                            "title": "chocolates",
+                            "comment": "8..10\n5..7\n2*a*b/e/(e-1)\n(a*(a-1)+b*(b-1))/e/(e-1)\na+b"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "There are $$ apples, $$ bananas and $$ cherries in a fruit bowl.\nWhen a fruit is taken from the bowl, it is eaten!\n\nAfter taking two fruit, what is the probability that I...\n\n...ate two of the same type of fruit? ___ \n...ate at least one apple? ___\n\n[https://www.youtube.com/watch?v=6y-dZP58Oxk](https://www.youtube.com/watch?v=6y-dZP58Oxk)",
+                                ""
+                            ],
+                            "title": "fruit bowl",
+                            "comment": "9..10\n7..8\n5..6\n(a*(a-1)+b*(b-1)+c*(c-1))/f\n1- ((b+c)*(b+c-1)/f)\n(a+b+c)*(a+b+c-1)\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "John has an empty box. He puts some red counters and some blue counters into the box.\nThe ratio of the number of red counters to the number of blue counters is 1 : $$\n \nLinda takes at random 2 counters from the box.\nThe probability that she takes 2 red counters is ~[$$]($$)\nHow many red counters did John put into the box? ___\n\n[https://www.youtube.com/watch?v=OQtXsfyonck](https://www.youtube.com/watch?v=OQtXsfyonck)",
+                                ""
+                            ],
+                            "title": "red counters",
+                            "comment": "2..5\ne/hcf(e,f)\nf/hcf(e,f)\n5..10\nd-1\n(a+1)*((a+1)*d-1)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "There are R red counters and G green counters in a bag. \nA counter is taken from the bag. The probability that the counter is green is ~[$$]($$)\nThe counter is put back in the bag.\n$$ more red counters and $$ more green counters are added to the bag.\nA counter is taken from the bag.\nThe probability that it is green is ~[$$]($$)\n\nFind the number of green counters and red counters that were in the bag to begin with \n___ red\n___ green\n",
+                                ""
+                            ],
+                            "title": "red counters 2",
+                            "comment": "h/hcf(g,h)\n(g+h)/hcf(g,h)\n1..3//red added\n1..3//green added\nj/hcf(i,j)\n(i+j)/hcf(i,j)\n(1..5)*(2,3,4)//red \n(1..5)*(2,3,4)//green\ng+c\nh+d"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "P(A) = $$\nP(B) = $$\nP(A ∪ B) = $$\n\nCalculate:\nP(A`) = ___\nP(A ∩ B) = ___\n\nAre A and B independent events? {yes/no}\nAre A and B mutually exclusive? {yes/no}\n\n[https://www.youtube.com/watch?v=Z8hzjBgXdNw](https://www.youtube.com/watch?v=Z8hzjBgXdNw)",
+                                ""
+                            ],
+                            "title": "independent and mutually exclusive",
+                            "comment": "0.1*(2..5)\n0.1*(2..5)\na+b-e\n1-a\n(a*b),(0.01,0.02,0.03,0.07),0\n\"yes\",\"no\",\"no\"\n\"no\",\"no\",\"yes\"\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/D1fQ8Dg.gif)\n@[18,27](___)\n@[43,27](___)\n@[66,27](___)\n@[26,53](___)\n@[43,48](___)\n@[56,53](___)\n@[43,70](___)\n@[45,80](0)",
+                                "Complete the Venn diagram given the information below:\n\n\nThere are no members outside of A and B and C\nThere are $$ members in A, $$ members in B, $$ members in C, $$ members in A and B, $$ members in A and C, $$ members in B and C and $$ members altogether\n\n[https://www.youtube.com/watch?v=X-fMm_MJDwQ](https://www.youtube.com/watch?v=X-fMm_MJDwQ)"
+                            ],
+                            "title": "3 Sets",
+                            "comment": "2..20\n2..20\n2..20\n2..20\n2..20\n2..20\n2..20\na+b+d+e\nb+c+e+f\nd+e+f+g\nb+e\nd+e\ne+f\na+b+c+d+e+f+g"
+                        }
+                    ],
+                    "name": "Stats and probability",
+                    "assignedNotes": []
+                }
+            ],
+            "name": "GCSE"
+        },
+        {
+            "name": "Maths",
+            "lessons": [
+                {
+                    "rows": [
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![]($$)\n@[5,20](f.d.)\n@[50,90](x)",
+                                "A survey was conducted to find out how many hours people slept. \nComplete the missing information\n\n|number of hours sleep|number of people\n|0 < x < $$|$$\n|$$ < x < $$|___\n|$$ < x < $$|___\n\nCalculate the mean number of hours sleep: ___\n\n[https://www.youtube.com/watch?v=DKYzhZL4vjM](https://www.youtube.com/watch?v=DKYzhZL4vjM)"
+                            ],
+                            "title": "hours sleep",
+                            "comment": "\"https://i.imgur.com/e4ozSO3.png\",\"https://i.imgur.com/CuwGYqD.png\",\"https://i.imgur.com/V66qPce.png\",\"https://i.imgur.com/Iol1q4E.png\",\"https://i.imgur.com/bVliyRE.png\"\n(3,2,2,1,1)*k\n(9,6,4,3,4)*k*l\nb\n(4,3,4,3,2)*k\n(4,4,8,8,3)*k*l\ne\n(5,5,5,5,5)*k\n(2,4,3,4,6)*k*l\n(2.4333,2.2857,2.7667,2.2333,2.1154)*k\n2..5\n2..5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![]($$)",
+                                "Which expression is described by the diagram on the left?\n{A/A'} {Union/Intersection} {B/B'}"
+                            ],
+                            "title": "Venn diagrams",
+                            "comment": "\"https://teachometer.co.uk/uploadedImages/cXpcjx1.gif\",\"https://teachometer.co.uk/uploadedImages/R42wXgA.gif\",\"https://teachometer.co.uk/uploadedImages/T3zKtJT.gif\",\"https://teachometer.co.uk/uploadedImages/hSSllum.gif\",\"https://teachometer.co.uk/uploadedImages/QDyzlQi.gif\",\"https://teachometer.co.uk/uploadedImages/c7hOKpj.gif\",\"https://teachometer.co.uk/uploadedImages/0xifHcB.gif\",\"https://teachometer.co.uk/uploadedImages/a9lqpy2.gif\"\n\"A\",\"A\",\"A\",\"A'\",\"A'\",\"A'\",\"A'\",\"A\"\n\"Intersection\",\"Intersection\",\"Union\",\"Intersection\",\"Intersection\",\"Union\",\"Union\",\"Union\"\n\"B\",\"B'\",\"B\",\"B\",\"B'\",\"B\",\"B'\",\"B'\""
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/Hx6db8H.png)\n@[7,0](f.d.)\n@[10,18]($$)\n@[10,43]($$)\n@[10,56]($$)\n@[14,99]($$)\n@[34,99]($$)\n@[54,99]($$)\n@[73,99]($$)\n@[85,99](score)",
+                                "The histogram shows a distribution of test scores. Find the median\n\nmedian score =  ___\n\n[https://www.youtube.com/watch?v=GxQfXtnsMAU](https://www.youtube.com/watch?v=GxQfXtnsMAU)"
+                            ],
+                            "title": "histogram median",
+                            "comment": "b+(1..3)\nc+(1..3)\n2..9\n10*(3..5)\nd+(1..2)*10\ne+(1..2)*10\nf+(1..2)*10\ne+(0.5*i-b*(e-d))/a\nb*(e-d)+a*(f-e)+c*(g-f)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "There are $$ apples, $$ bananas and $$ cherries in a fruit bowl.\nWhen a fruit is taken from the bowl, it is eaten!\n\nAfter taking two fruit, what is the probability that I...\n\n...ate two of the same type of fruit? ___ \n...ate at least one apple? ___\n\n[https://www.youtube.com/watch?v=6y-dZP58Oxk](https://www.youtube.com/watch?v=6y-dZP58Oxk)",
+                                ""
+                            ],
+                            "title": "fruit bowl",
+                            "comment": "9..10\n7..8\n5..6\n(a*(a-1)+b*(b-1)+c*(c-1))/f\n1- ((b+c)*(b+c-1)/f)\n(a+b+c)*(a+b+c-1)\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "P(A) = $$\nP(B) = $$\nP(A ∪ B) = $$\n\nCalculate:\nP(A`) = ___\nP(A ∩ B) = ___\n\nAre A and B independent events? {yes/no}\nAre A and B mutually exclusive? {yes/no}\n\n[https://www.youtube.com/watch?v=Z8hzjBgXdNw](https://www.youtube.com/watch?v=Z8hzjBgXdNw)",
+                                ""
+                            ],
+                            "title": "independent and mutually exclusive",
+                            "comment": "0.1*(2..5)\n0.1*(2..5)\na+b-e\n1-a\n(a*b),(0.01,0.02,0.03,0.07),0\n\"yes\",\"no\",\"no\"\n\"no\",\"no\",\"yes\"\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/D1fQ8Dg.gif)\n@[18,27](___)\n@[43,27](___)\n@[66,27](___)\n@[26,53](___)\n@[43,48](___)\n@[56,53](___)\n@[43,70](___)\n@[45,80](0)",
+                                "Complete the Venn diagram given the information below:\n\n\nThere are no members outside of A and B and C\nThere are $$ members in A, $$ members in B, $$ members in C, $$ members in A and B, $$ members in A and C, $$ members in B and C and $$ members altogether\n\n[https://www.youtube.com/watch?v=X-fMm_MJDwQ](https://www.youtube.com/watch?v=X-fMm_MJDwQ)"
+                            ],
+                            "title": "3 Sets",
+                            "comment": "2..20\n2..20\n2..20\n2..20\n2..20\n2..20\n2..20\na+b+d+e\nb+c+e+f\nd+e+f+g\nb+e\nd+e\ne+f\na+b+c+d+e+f+g"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "There are R red counters and G green counters in a bag. \nA counter is taken from the bag. The probability that the counter is green is ~[$$]($$)\nThe counter is put back in the bag.\n$$ more red counters and $$ more green counters are added to the bag.\nA counter is taken from the bag.\nThe probability that it is green is ~[$$]($$)\n\nFind the number of green counters and red counters that were in the bag to begin with \n___ red\n___ green\n",
+                                ""
+                            ],
+                            "title": "red counters 2",
+                            "comment": "h/hcf(g,h)\n(g+h)/hcf(g,h)\n1..3//red added\n1..3//green added\nj/hcf(i,j)\n(i+j)/hcf(i,j)\n(1..5)*(2,3,4)//red \n(1..5)*(2,3,4)//green\ng+c\nh+d"
+                        }
+                    ],
+                    "name": "Stats and probability",
+                    "assignedNotes": []
+                },
+                {
+                    "rows": [
+                        {
+                            "title": "reverse percentage increase",
+                            "leftRight": [
+                                "",
+                                "After adding a profit of $$%, the selling price of a television is £$$\nWhat was the cost price (price before adding the profit)?\n\n£___"
+                            ],
+                            "comment": "5,10,15,20,25,30\n(100+a)*c/100\n(10..19)*(20,10,20,5,4,10)\n100+a\nb",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "In a sale all items are reduced by $$%.\nA pair of socks now costs £$$. What was its original price? £___ ",
+                                "|%|£\n|100| \n| |  \n|$$|$$"
+                            ],
+                            "title": "reverse percentages",
+                            "comment": "5,10,15,20,25,30\n(100-a)*c/100\n(2,3,4,6,7,9)*(20,10,20,5,4,10)\n100-a\nb"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "|n|t\n|$$|$$\n|$$|$$\n",
+                                "\nwhat is the nth term? t = __n + __\n\n[https://www.youtube.com/watch?v=KMPUd_6NNRM](https://www.youtube.com/watch?v=KMPUd_6NNRM)"
+                            ],
+                            "title": "difficult nth term",
+                            "comment": "4..7\ne*a + f\n(a+1)..10\ne*c + f\n(-5..-2),(2 .. 5)\n(-5..-2),(2 .. 5)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "At the start of the year, a holiday in Spain cost £$$. It increased by $$% in May and then a further $$% in June. Calculate the final cost of the holiday £___  ",
+                                ""
+                            ],
+                            "title": "holiday",
+                            "comment": "(4..9)*100\n4..9\n4..9\na*(100+b)*(100+c)/10000"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Trev completed a Maths test consisting of $$ questions. For every correct answer he gained $$ marks and for every wrong answer he lost 1 mark. If he left an answer blank he neither gained nor lost any marks. \n\nTrev got $$ more questions correct than he got wrong and scored $$ altogether. How many questions did he leave blank? ___\n\n[https://youtu.be/Kh__yIbBHs8](https://youtu.be/Kh__yIbBHs8)",
+                                "|correct | wrong| blank|score\n| | | |\n| | | |\n| | | |\n| | | |\n| | | |\n| | | |\n"
+                            ],
+                            "title": "Test marks 2",
+                            "comment": "5*(4..9) //questions\n2..5 //marks per correct\n2..5  //ratio\nf*(b-1)+c*b\na-c-2*f\n2..((a-c)/2)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A family of $$ people celebrate Christmas by buying exactly one gift for each other person. How many presents are bought? ___",
+                                ""
+                            ],
+                            "title": "Handshakes",
+                            "comment": "5..10\n a*(a-1)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "multiply out:\n\n(x $$)(x $$) = x^2 + ___ x + ___",
+                                "||x|$$\n|x||\n|$$||"
+                            ],
+                            "title": "double brackets",
+                            "comment": "includesign(e)\nincludesign(f)\ne+f\ne*f\n(-5..-1),(1..5)\n(-5..-1),(1..5),(1..5)\na\nb"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "At a party, every person shakes every other person's hand exactly once. How many handshakes took place if there were $$ people at the party?\n ___",
+                                ""
+                            ],
+                            "title": "Handshakes",
+                            "comment": "5..10\n a*(a-1)/2"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "how many odd multiples of $$ are there between 1 and $$ inclusive? ___\n\n[https://www.youtube.com/watch?v=n8OQCkL0OjM](https://www.youtube.com/watch?v=n8OQCkL0OjM)",
+                                ""
+                            ],
+                            "title": "Odd multiples",
+                            "comment": "3,5,7,9\n(5..9)*100\nfloor((b-a)/(2*a))+1"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The world's largest pizza measures $$ cm across the middle and $$ cm around the edge.\nIf it cut into $$ equal pieces, what is the perimeter of each piece? ___ cm\n\n[https://www.youtube.com/watch?v=8ZAyPFe3WAU](https://www.youtube.com/watch?v=8ZAyPFe3WAU)",
+                                "![](https://i.ytimg.com/vi/h8oFyTJ4If0/maxresdefault.jpg)"
+                            ],
+                            "title": "big pizza",
+                            "comment": "round(b/π)\nc*(20..50)\n3..10\na+(b/c)"
+                        },
+                        {
+                            "title": "solving completed square",
+                            "leftRight": [
+                                "find x to three decimal places, if (x - $$)^2 = $$\n\nsmallest value of x = ___\nlargest value of x = ___",
+                                ""
+                            ],
+                            "comment": "2..9\npow((2..9),2)\nround(e*1000)/1000\nround(f*1000)/1000\na-sqrt(b)\na+sqrt(b)",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Multiply out and simplify:\n\n$$ - ($$ + $$x) - $$($$ - $$x)  =  ___ x + ___",
+                                ""
+                            ],
+                            "title": "multiply out",
+                            "comment": "2..5\n2..5\n2..5\n2..5\n2..5\n2..5\n-c+d*f\na-b-d*e"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The point (p, $$) lies on the line with equation:\n\n$$x + $$y = $$\n\nFind p\n\np = ___\n\n[https://www.youtube.com/watch?v=dchZhsbUPV4](https://www.youtube.com/watch?v=dchZhsbUPV4)",
+                                ""
+                            ],
+                            "title": "missing coordinate",
+                            "comment": "-5..5\n2..5\n2..5\nb*e+c*a\n-5..5"
+                        },
+                        {
+                            "title": "Recurring decimals to fractions  2",
+                            "leftRight": [
+                                "$$... = ~[__](__)",
+                                ""
+                            ],
+                            "comment": "maxlength(b/c,14)\nd/hcf(d,e)\ne/hcf(d,e)\n1 ..(e-1) \n(99,999)*(2,5)",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Multiply out and simplify:\n\n$$ - ($$ + $$x) + $$ + ($$x - $$)  =  ___ x + ___",
+                                ""
+                            ],
+                            "title": "multiply out",
+                            "comment": "2..5\n2..5\n2..5\n2..5\n2..5\n2..5\n-c+e\na-b+d-f"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "There are $$ boys in a class, with an average of $$ marks.\nThere are $$ girls in a class.\nThe class average is $$. What is the girl's average mark? ___",
+                                "| |number|average|sum\n|boys| | | \n|girls| | | \n|total| | | "
+                            ],
+                            "title": "average",
+                            "comment": "f*g\nd-h\ng*h\n6..10\nd+f\n2..5\n2..5\n2..5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "(x $$)(x $$) = __x^2 + __x + __",
+                                ""
+                            ],
+                            "title": "multiply out quadratics",
+                            "comment": "includesign(e)\nincludesign(f)\ne+f\ne*f\n(-5..-1),(1..5),(5..10)\n(-5..-1),(1..5)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Express £$$ as a percentage of £$$\n\n__ %",
+                                ""
+                            ],
+                            "title": "percentage of",
+                            "comment": "d*b/e\ne*(2..5)\na*100/b\ncoprime(e)\n10,20,25"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Write $$ in standard form\n\n___ x 10^ ___",
+                                ""
+                            ],
+                            "title": "write in standard form",
+                            "comment": "b*pow(10,c)\n0.1*(11..99)\n-5..5"
+                        },
+                        {
+                            "title": "aye phone",
+                            "leftRight": [
+                                "the total cost of materials used to make an aye phone is £$$, which is $$% of the sail price. Arr!\nCalculate the sail price £___",
+                                ""
+                            ],
+                            "comment": "padrightzeroes(b*c/100,6)\n(2..19)*5\n10*(45..80)",
+                            "purpose": "template"
+                        },
+                        {
+                            "title": "",
+                            "leftRight": [
+                                "Kev's ultramarines beat Trev's Tyranids in a huge battle that lasted $$ days.\nKev started with $$ units, but finished with only $$. What is the percentage loss? ___%",
+                                ""
+                            ],
+                            "comment": "40..90\n20*(20..40)\n(100-d)*b/100\n5*(2..14)",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Expand and simplify \n(x $$)(x $$)(x $$) = x^3 + __ x^2 + __ x + __",
+                                ""
+                            ],
+                            "title": "cubic",
+                            "comment": "includesign(g)\nincludesign(h)\nincludesign(i)\ng+h+i\ng*h+h*i+i*g\ng*h*i\n-5,-2,-1,3,4\n-4,-2,1,2\n-3,-1,1,2,4,5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Evaluate: \n\n~[$$ x 10^$$ ]($$ x 10^$$ ) = ___ x 10^ ___",
+                                ""
+                            ],
+                            "title": "standard form calculations 2",
+                            "comment": "mantissa(g)\nexponent(g)\n5..10\n(-10..-1),(1..10)\n5..10\n(-10..-1),(1..10)\nc*e*pow(10,(d+f))"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Point A has coordinates ($$, $$).\nPoint P has coordinates ($$, $$).\nWhat are the coordinates of A after it has been rotated 180° about point P? \n\n(___,___)",
+                                "![](https://qph.fs.quoracdn.net/main-qimg-4f2307394c4f22261f62696c968730d6)"
+                            ],
+                            "title": "Rotations",
+                            "comment": "c+g\nd+h\n(-10+abs(g))..(10-abs(g))\n(-10+abs(h))..(10-abs(h))\nc-g\nd-h\n2..5\n2..5"
+                        },
+                        {
+                            "title": "Surface area and volume of cylinder",
+                            "leftRight": [
+                                "![image,60](https://teachometer.co.uk/uploadedImages/tivx77o.png)\n@[50,10]($$ cm)\n@[80,40]($$ cm)\n",
+                                "_Area of circle_\nπr^2 = ___ cm^2\n\n_Curved surface area_\n2πrh = ___ cm^2\n\nTotal surface area = ___ cm^2"
+                            ],
+                            "comment": "(2..9)\n(2..9)\nπ*a*a\n2*π*a*b\n2*c+d",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "the three numbers are $$, $$ and $$\n\n\n\n\n\n\n\n\n\n\nHCF = ___\nLCM = ___",
+                                "| | 2 | 3 | 5\n|$$| | | \n|$$| | | \n|$$| | | \n"
+                            ],
+                            "title": "LCM and HCF three numbers",
+                            "comment": "pow(2,i)*pow(3,j)*pow(5,k)\npow(2,l)*pow(3,m)*pow(5,n)\npow(2,o)*pow(3,p)*pow(5,q)\npow(2,min(i,l,o))*pow(3,min(j,m,p))*pow(5,min(k,n,q))\npow(2,max(i,l,o))*pow(3,max(j,m,p))*pow(5,max(k,n,q))\na\nb\nc\n1..3\n1..2\n0..1\n1..3\n0..1\n1..2\n3..4\n0..1\n0..1\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/DeWQrTk.png)\n",
+                                "The cube has the same volume as the cylinder. What is its side length?\n\nCylinder \nRadius: $$ cm\nHeight: $$ cm\n\nCube\nSide length ___ cm\n"
+                            ],
+                            "title": "cube volume",
+                            "comment": "2..10\n2..10\npow(π*a*a*b,1/3)"
+                        },
+                        {
+                            "title": "School fair",
+                            "leftRight": [
+                                "$$ people attended the school fair. \nThe ticket price was £$$ for children and £$$ for adults. The total taken in ticket sales was £$$.\nHow many children attended the fair? ___",
+                                ""
+                            ],
+                            "comment": "e+f\n1..3 //child price\n4..6 //adult price\nb*e+c*f//total sales\n20..50 //children\n20..50 //adults",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/elfRWY8.png)\n@[0,40](__)\n@[45,90]($$)\n@[50,40]($$)",
+                                "Complete the missing information"
+                            ],
+                            "title": "Pythagoras 1",
+                            "comment": "2..5\n6..9\nroundtodp(sqrt(a*a+b*b),2)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/elfRWY8.png)\n@[0,40]($$)\n@[45,90]($$)\n@[50,40](__)",
+                                "Complete the missing information"
+                            ],
+                            "title": "Pythagoras 2",
+                            "comment": "2..5\n6..9\nroundtodp(sqrt(a*a+b*b),2)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![img](https://teachometer.co.uk/uploadedImages/fOSVNzH.png)\n@[7,30]($$)\n@[7,60]($$)\n@[58,88]($$)",
+                                "y = __ x + ___"
+                            ],
+                            "title": "equation of line from graph",
+                            "comment": "c*d+e\ne\n2..9\n2..5\n6..9"
+                        },
+                        {
+                            "title": "factorise quadratics",
+                            "leftRight": [
+                                "(x + __)(x + __) = x^2 $$x $$",
+                                ""
+                            ],
+                            "comment": "e\nf\nincludesign(e+f)\nincludesign(e*f)\n(-5..-1),(1..5)\n(-5..-1),(1..5)",
+                            "purpose": "template"
+                        },
+                        {
+                            "title": "salary man",
+                            "leftRight": [
+                                "A man spends $$/$$ of his salary on rent, and $$/$$ of what is left on food. What fraction is left to spend on warhammer figurines?\n~[___](___)",
+                                ""
+                            ],
+                            "comment": "coprime(b)\n2,4,6\ncoprime(d)\n3,5\ng/HCF(g,h)//ans\nh/HCF(g,h)//ans\nh-a*d-c*(b-a)\nb*d\n",
+                            "purpose": "template"
+                        },
+                        {
+                            "title": "Rectangle change",
+                            "leftRight": [
+                                "The width of a rectangle is increased by $$% and the height is decreased by $$%. \nCalculate the percentage change in area \n{increases/decreases} by ___ %",
+                                ""
+                            ],
+                            "comment": "(2..5)*10\n(2..5)*10\nif(e<0,\"decreases\",\"increases\")\nif(e<0,-1*e,e)\n(100+a)/100*(100-b)-100",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "50 people were asked how many pairs of socks they owned.\n\n\n\n|number of pairs of socks owned|frequency\n|$$|$$\n|$$|$$\n|$$|$$\n|$$|$$\n|$$|$$\n\n",
+                                "\nCalculate the average number of pairs of socks per person. ___\n\nCalculate the median number of pairs per person ___"
+                            ],
+                            "title": "Average of frequency table",
+                            "comment": "(1..4)*10\n1..3\na+1\n5..10\nc+1\n50-b-d-h-j\ne+1\n15..20\ng+1\n5..10\na+(d+2*f+3*h+4*j)/50\nif((b+d+f)>(h+j),e,g)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Draw the point A ($$,$$) on the diagram\n\nFill in the gaps below, showing point A after each transformation\n\ntranslate A by ($$,$$) => (__,__)\n\nreflect A in the line x = $$ => (__,__)\n\nrotate A 180 degrees around the origin => (__,__)",
+                                "![](http://www.bbc.co.uk/schools/gcsebitesize/maths/images/ma08070.gif)"
+                            ],
+                            "title": "",
+                            "comment": "(-5..5)\n(-5..5)\ne-a\nf-b\n(-5..5)\n(-5..5)\n((b-5)/2)..((b+5)/2)\na\n2*g-b\n-1*a\n-1*b"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "\nA student invested £$$ into a savings account with $$% fixed interest.\n\nTotal value after one year £__\nTotal value after two years £__\nTotal value after 10 years £__\n",
+                                ""
+                            ],
+                            "title": "compound interest 1",
+                            "comment": "(3..19)*500\n(1..6)+0.5\na*f\nround(a*f*f,2)\nround((a*Pow(f,10)),2)\n1+0.01*b"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Find the point of intersection between the two lines with equations:\ny~1 = $$x + $$\ny~2 = $$x + $$\n\n(___,___)\n\n[https://www.youtube.com/watch?v=XVlxE1OnGH0](https://www.youtube.com/watch?v=XVlxE1OnGH0)",
+                                ""
+                            ],
+                            "title": "point of intersection",
+                            "comment": "2,4,6\na*(2..5)\n3,5\nb+(a-c)*e\n-2..2\na*e+b"
+                        },
+                        {
+                            "title": "Animal crisps",
+                            "leftRight": [
+                                "Kev wants to make a pie chart about his collection of animal-shaped crisps\n\nComplete the table showing the angle for each section of the pie chart\n\n||Number of crisps|Degrees\n|Mammals|$$|__\n|Insects|$$|__\n|Birds|$$|__\n|Fish|$$|__",
+                                ""
+                            ],
+                            "purpose": "template",
+                            "comment": "1..(i/4)\na/i*360\n1..(i/4)\nc/i*360\n1..(i/4)\ne/i*360\ni-a-c-e\nf/i*360\n18, 20, 24, 30, 36, 40, 45, 60, 72, 90"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "What is the $$ of the numbers $$, $$, $$, $$, $$? ___",
+                                ""
+                            ],
+                            "title": "Median Mean and Mode",
+                            "comment": "\"mean\",\"mode\",\"median\"\n10..19\nb,(b+(1..5))\nc,c\n(d+(1..5)),d\n(e+(1..5)),(e+(1..5))\n0.2*(b+c+d+e+f),mode(b,c,d,e,f),median(b,c,d,e,f)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A + B + C have an average of $$\n\nA + B + C + D have an average of $$\n\nWhat is D equal to? ___",
+                                ""
+                            ],
+                            "title": "average when one is added",
+                            "comment": "(6..9)\n(5..(a-1)),((a+1)..10)\n4*b-3*a"
+                        },
+                        {
+                            "title": "Running to meet",
+                            "leftRight": [
+                                "Kev and Trev run towards each other at speeds of $$ m/s and $$ m/s. If they started $$ km apart, how long will they take to reach each other? ___ seconds",
+                                ""
+                            ],
+                            "comment": "2..9\n2..9\n(a+b)*d/1000\n10*(5..9)",
+                            "purpose": "template"
+                        },
+                        {
+                            "title": "train signal",
+                            "leftRight": [
+                                "How long is a train which passes a signal in $$ seconds at a speed of $$ km/h? __ m",
+                                ""
+                            ],
+                            "comment": "10*(2..9)\n3.6*10*(2..5)\na*b/3.6",
+                            "purpose": "template"
+                        },
+                        {
+                            "title": "Car chase",
+                            "leftRight": [
+                                "A car travelling at $$ km/h is $$ m behind another car travelling at $$ km /h. \nHow long will it take the first car to catch the second? ___ seconds",
+                                ""
+                            ],
+                            "comment": "10*(2..9)\ne*d/3.6\na+e\n10*(2..9)\n5*(1..5)*3.6//speed diff",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Solve: $$ = ~[$$x $$]($$x $$)\n\nx = ____",
+                                ""
+                            ],
+                            "title": "algebraic fractions",
+                            "comment": "-2,-1,1,2\n2,4,6\nincludesign((a*d*f)+(a*g)-(b*f))\n3,5\nincludesign(g)\n2..5\n-4,-2,2,4"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "$$ $$^$$ = ___ $$^$$",
+                                ""
+                            ],
+                            "title": "distances",
+                            "comment": "(2..9)\n\"cm\"\n(\"\",\"2\",\"3\")\na*pow(g,h)\n(\"m\",\"mm\")\nc\n(0.01,10)\n(1,2,3)"
+                        },
+                        {
+                            "title": "Nits",
+                            "leftRight": [
+                                "There are a total of $$ children in years 4 5 and 6\n$$ of those children have nits\n\n$$ children in Year 4 have nits\n$$ children in Year 5 do not have nits\n\n$$ of the $$ children in Year 6 do not have nits\n\nHow many children in Year 4 do  not have nits? ____\n\nHow many children are in Year 5? ___",
+                                ""
+                            ],
+                            "purpose": "template",
+                            "comment": "b+k //a\nc+i+j//b\n11..20//c\n11..20//d\n11..20//e\nj+e//f\n2..10//g\ni+d//h\n2..10//i\n2..10//j\ng+d+e//k\nc+g//l"
+                        },
+                        {
+                            "title": "Rearrange 5",
+                            "leftRight": [
+                                "make y the subject of the formula: \n\nx = ~[$$](y - $$)  \n\nWhen x = $$, what is the value of y? ___",
+                                ""
+                            ],
+                            "comment": "2..8\n2..4\nroundtodp(a/(d-b),2)\n0.1*(60..90)",
+                            "purpose": "template"
+                        },
+                        {
+                            "title": "Basketball team",
+                            "leftRight": [
+                                "\nAfter $$ games, Kev's basketball team had a mean score of $$ points per game\nAfter the last game of the season their mean score was $$ points higher \n\nHow many points were scored in the last game of the season? ___",
+                                ""
+                            ],
+                            "purpose": "template",
+                            "comment": "9..15\n10..20\n2..3\n(a+1)*(b+c) - a*b"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The probability that a biased coin shows Heads four times in a row equals $$.\n\nFind the probability that it shows Tails four times in a row ____",
+                                ""
+                            ],
+                            "title": "biased coin",
+                            "comment": "pow(c,4)\npow((1-c),4)\n0.1*(1..9)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Calculate the distance between the points ($$,$$) and ($$,$$)\n\nDistance = ___",
+                                ""
+                            ],
+                            "title": "distance between two points",
+                            "comment": "2..5\n2..5\n6..10\n6..10\nsqrt((c-a)*(c-a)+(d-b)*(d-b))"
+                        },
+                        {
+                            "title": "Tunnel",
+                            "leftRight": [
+                                "A train of length $$ m approaches a tunnel of length $$ m. How long will it take the train to pass completely through the tunnel at a speed of $$ km/h? ___ seconds",
+                                ""
+                            ],
+                            "comment": "10..(e/2)\ne-a\n3.6*10*(2..5)\n10*(5..9)\nc*d/3.6//total length in m",
+                            "purpose": "template"
+                        },
+                        {
+                            "title": "Median of frequency table",
+                            "leftRight": [
+                                "$$ people were asked how many pairs of socks they owned.\n\n|number of pairs of socks owned|frequency\n|$$|$$\n|$$|$$\n|$$|$$\n|$$|$$\n|$$|$$\n\n",
+                                "\nCalculate the median number of pairs per person  ___"
+                            ],
+                            "comment": "99\n1\nm\n2\nn-m\n3\no-n\n4\np-o\n5\n99-p\n1,2,3,4,5\n(50..60),(25..49),(17..33),(12..24),(10..19)\n(61..70),(50..63),(34..49),(25..37),(20..29)\n(71..80),(64..78),(50..67),(37..49),(30..39)\n(81..90),(79..92),(68..83),(50..75),(40..49)",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Simplify:\n\n√$$ + √$$ = __ √__\n\n[https://www.youtube.com/watch?v=D5P8LAfcHhM](https://www.youtube.com/watch?v=D5P8LAfcHhM)",
+                                ""
+                            ],
+                            "title": "surds sum",
+                            "comment": "e*e*d\nf*f*d\ne+f\n2,3,5\n2..5\n(e+1)..7"
+                        },
+                        {
+                            "title": "Rearrange 1",
+                            "leftRight": [
+                                "make y the subject of the formula: \n\nx = y^2  + $$\n\nWhen x = $$, what is the value of y? ___",
+                                ""
+                            ],
+                            "comment": "21..30\nc*c+a\n0.1*(40..90)",
+                            "purpose": "template"
+                        },
+                        {
+                            "title": "Rearrange 3",
+                            "leftRight": [
+                                "make y the subject of the formula: \n\nx = √($$y + $$)  \n\nWhen x = $$, what is the value of y? ___",
+                                ""
+                            ],
+                            "comment": "2..8\n31..40\nroundtodp(sqrt(a*d+b),2)\n0.1*(40..90)",
+                            "purpose": "template"
+                        },
+                        {
+                            "title": "Rearrange 4",
+                            "leftRight": [
+                                "make y the subject of the formula: \n\nx = ~[y]($$) - $$  \n\nWhen x = $$, what is the value of y? ___",
+                                ""
+                            ],
+                            "comment": "2..8\n2..9\nroundtodp(d/a-b,2)\n200..900",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "There are $$ boys in a class, with an average of $$ marks.\nThere are $$ girls in a class.\nThe class average is $$. What is the girl's average mark? ___",
+                                "| |number|average|sum\n|boys| | | \n|girls| | | \n|total| | | "
+                            ],
+                            "title": "combining averages",
+                            "comment": "f*g\nd-h\ng*h\n10..20\nd+f\n2..5\n2..5\n6..10"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "On a geography field trip the minibus maintained a speed of $$ mph over $$ mile outward journey.\nOn the return journey the air conditioning was turned on (i.e. all the windows were wound down) and this reduced its speed to $$ mph on the way back.\n\nWhat was the average speed of the minibus?  ___ mph",
+                                "![](http://teachometer.co.uk/v2/_uploadedUserImages/109133392498958946465/1038957211.png)"
+                            ],
+                            "title": "There and back",
+                            "comment": "90..100\n100..200\n40..50\n2*a*c/(a+c)"
+                        },
+                        {
+                            "title": "Mileage",
+                            "leftRight": [
+                                "50 car owners take part in a survey and give information about the mileage, m of their cars.\n\n|miles per gallon|Frequency\n|0 <  m < 20|$$\n|20 < m < 40|$$\n|40 < m < 60|$$\n|60 < m < 80|$$\n|80 < m < 100|$$",
+                                "Estimate the mean mileage in miles per gallon ___"
+                            ],
+                            "purpose": "template",
+                            "comment": "1..3\n5..10\n50 - a - b - d - e\n10..15\n5..9\n(10*a+30*b+50*c+70*d+90*e)/50"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![image](https://teachometer.co.uk/uploadedImages/elfRWY8.png)\n@[50,40](__)\n@[0,40](__)\n@[35,85]($$)\n@[64,67]($$°)\n",
+                                "You may need to recall the formulae for sine rule, cosine rule or area of a triangle. You are not given them in the exam."
+                            ],
+                            "title": "right angled trig",
+                            "comment": "(2..10)\nroundtodp(a*sind(d),2)\nroundtodp(a*cosd(d),2)\n(11..42)"
+                        },
+                        {
+                            "title": "Interest",
+                            "leftRight": [
+                                "What sum of money, invested at $$% interest per year, is needed to provide an income of £$$ per year? £___",
+                                ""
+                            ],
+                            "comment": "0.5*(2..9)\na*c/100\n1000*(12..39)",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Express $$ + ~[$$]($$x) in the form ~[px + q]($$x)\nwhere p and q are to be found.\n\np = ___\nq = ___\n\n[https://www.youtube.com/watch?v=7yQae7tIvDc](https://www.youtube.com/watch?v=7yQae7tIvDc)",
+                                ""
+                            ],
+                            "title": "algebraic fractions 1",
+                            "comment": "2..5\ncoprime(c)\n2..5\nc\na*c\nb"
+                        },
+                        {
+                            "title": "Rearrange 2",
+                            "leftRight": [
+                                "make y the subject of the formula: \n\nx = √($$y)  + $$\n\nWhen x = $$, what is the value of y? ___",
+                                ""
+                            ],
+                            "comment": "2..8\n31..40\nroundtodp(sqrt(a*d)+b,2)\n0.1*(40..90)",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![Imgur](https://teachometer.co.uk/uploadedImages/KqiWh9a.png)\n@[0,25]($$)\n@[0,84]($$)\n@[44,60]($$)\n@[77,60]($$)",
+                                "|time interval (s)|average velocity (m/s)\n|$$ - $$|___\n|$$ - $$|___\n\n|point in time (s)|instantaneous velocity (m/s)\n|$$|___\n|$$|___\n\n[https://www.youtube.com/watch?v=mPwENpfPE8Q](https://www.youtube.com/watch?v=mPwENpfPE8Q)"
+                            ],
+                            "title": "analysing distance time graphs",
+                            "comment": "3*p\n-3*p\n5*o\n10*o\n0*o\n5*o\n0.6*p/o\n6*o\n10*o\n0.25*p/o\n5.5*o\n-4*p/o\n7*o\n0*p/o\n(1,2,5)*(0.1,1)\n(2,5)*(0.01,0.1,1)\n"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "Complete the missing information about a regular polygon:\n\nnumber of sides: $$\nsize of interior angles: $$ ^o\nsize of exterior angles: $$ ^o",
+                                ""
+                            ],
+                            "title": "polygon angles",
+                            "comment": "(4,5,6,8,9,10,12,15,18,20,30)\n180-c\n360/a"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Evaluate: \n\n($$ x 10^$$ ) x ($$ x 10^$$ ) = ___ x 10^ ___",
+                                ""
+                            ],
+                            "title": "standard form calculations 1",
+                            "comment": "5..10\n(-10..-1),(1..10)\n5..10\n(-10..-1),(1..10)\nmantissa(g)\nexponent(g)\na*c*pow(10,(b+d))"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "point A = ($$,$$)\npoint B = ($$,$$)",
+                                "The equation of the line running through both points is\ny = __x + __\n\n[https://www.youtube.com/watch?v=Bh-c5nZ5OBI](https://www.youtube.com/watch?v=Bh-c5nZ5OBI)"
+                            ],
+                            "title": "equation of line from 2 points",
+                            "comment": "(-10 .. 8)\na*e + f\n(a .. 9) +1\nc*e + f\n(-5 .. 5)\n(-5 .. 5)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "$$... = ~[__](__)",
+                                ""
+                            ],
+                            "title": "Recurring decimals to fractions  1",
+                            "comment": "b/c\nd/hcf(d,e)\ne/hcf(d,e)\n1 ..(e-1) \n(99,999)"
+                        },
+                        {
+                            "title": "play",
+                            "leftRight": [
+                                "A family of $$ go to see a play\nAdults tickets cost £ $$\nChildrens tickets cost £ $$\nThe total price for tickets is £ $$\n\nHow many children are in the family? ___",
+                                ""
+                            ],
+                            "comment": "15..20\n11..20\n5..10\nb*(a-e)+c*e\n1..(a-1)",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![img](https://teachometer.co.uk/uploadedImages/JfopLLw.png)\n@[32,30]($$)\n@[10,88]($$)\n@[68,88]($$)",
+                                "y = __ x + ___"
+                            ],
+                            "title": "equation of line from graph",
+                            "comment": "c*d+e\n-5..-2\n2..5\n2..5\n-1*(b*d)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "y is $$ x\nwhen x = $$, y = $$\nwhat is the value of y when x = $$? ____\n\n[https://www.youtube.com/watch?v=A1dKbLEQ4sE](https://www.youtube.com/watch?v=A1dKbLEQ4sE)",
+                                ""
+                            ],
+                            "title": "any proportional",
+                            "comment": "\"proportional to\",\"inversely proportional to\",\"proportional to the square of\",\"inversely proportional to the square of\"\n11..20\n(11..20)*0.1,e*f,(11..20)*0.1,e*f*f\nb*f\nc*f,(11..20)*0.1,c*f*f,(11..20)*0.1\n2..10"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "![Imgur](https://teachometer.co.uk/uploadedImages/fyaAqsj.png)\n@[0,24]($$)\n@[0,81]($$)\n@[43,60]($$)\n@[76,60]($$)\n",
+                                "|time interval (s)|average velocity (m/s)\n|$$ - $$|___\n|$$ - $$|___\n\n|point in time (s)|instantaneous velocity (m/s)\n|$$|___\n|$$|___"
+                            ],
+                            "title": "analysing distance time graphs",
+                            "comment": "3*p\n-3*p\n5*o\n10*o\n0*o\n4*o\n-1*p/o\n5*o\n10*o\n-0.2*p/o\n1*o\n-2*p/o\n6*o\n2/3*p/o\n(1,2,5)*(0.1,1,10)\n(2,1)*(1,0.1)\n"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Cone A and B are mathematically similar\nThe ratio of the volume of cone A to cone B is $$ : $$\nThe surface area of cone A is $$ cm^2 .\nCalculate the surface area of cone B ____ cm^2",
+                                ""
+                            ],
+                            "title": "area and volume scaling 2",
+                            "comment": "e*e*e\nf*f*f\ne*e*g\nf*f*g\n2,4,4,2//length ratio A\n3,5,3,5//length ratio B\n0.1*(110..190)//common number"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Cone A and B are mathematically similar\nThe ratio of the volume of cone A to cone B is $$ : $$\nThe surface area of cone A is $$ cm^2 .\nCalculate the surface area of cone B ____ cm^2",
+                                ""
+                            ],
+                            "title": "area and volume scaling 2",
+                            "comment": "e*e*e\nf*f*f\ne*e*g\nf*f*g\n2,4,4,2//length ratio A\n3,5,3,5//length ratio B\n0.1*(110..190)//common number"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Solve for x and y:\n\n$$x $$y = $$\n$$x $$y = $$\n\n_Solution_\nx = __, y = __",
+                                ""
+                            ],
+                            "title": "Simultaneous equations",
+                            "comment": "2..3\nincludesign(i)\na*g+i*h\na+(1,2)\nincludesign(j)\nd*g+j*h\n1..4\ng+(-1,1,3)\n3..5\ni+(-2,-1,1,2)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The ratio of red to blue beads in a bag is $$:$$. When $$ blue beads are added, the ratio becomes $$:$$.\nHow many red and blue beads were originally in the bag?\n___ red and ___ blue\n\n",
+                                "||Red|Blue\n|Before| |\n| | |\n|After| |\n| | |"
+                            ],
+                            "title": "ratio problems",
+                            "comment": "3..5\ncoprime(a)\nh*(e*a-b*d)\ncoprime(e)\n3..5\na*d*h\nb*d*h\n2..5"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "There are $$ milk chocolates and $$ dark chocolates in a box.\nWhen a chocolate is taken from the box, it is eaten!\n\nAfter taking two chocolates, what is the probability that I ...\n\n...ate one milk and one dark? ___\n...ate two of the same type of chocolate? ___\n\n[https://www.youtube.com/watch?v=NY2HwZO5HwA](https://www.youtube.com/watch?v=NY2HwZO5HwA)",
+                                ""
+                            ],
+                            "title": "chocolates",
+                            "comment": "8..10\n5..7\n2*a*b/e/(e-1)\n(a*(a-1)+b*(b-1))/e/(e-1)\na+b"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Express ~[$$](x - $$) - ~[$$](x + $$) in the form ~[px + q](x^2 - r)\n\nwhere p and q and r are to be found.\n\np = ___\nq = ___\nr = ___\n\n[https://www.youtube.com/watch?v=1RGd59bSs_A](https://www.youtube.com/watch?v=1RGd59bSs_A)",
+                                ""
+                            ],
+                            "title": "algebraic fractions 3",
+                            "comment": "2..5\n2..5\n2..5\nb\na-c\na*b+c*b\nb*b"
+                        },
+                        {
+                            "title": "Surds",
+                            "leftRight": [
+                                "Express ~[$$]($$ + √$$) in the form p + q√$$ where p and q are to be found\n\np = ___\nq = ___",
+                                ""
+                            ],
+                            "comment": "(1..3)*(b*b-c)\n1,2,3\n2,3\n2,3\na*b/(b*b-c)\n-1*a/(b*b-c)",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A group of people went to a restaurant.\nEach person chose one starter and one main course. \n|starter|main course\n|soup|lasagne\n|prawns|curry\nthe number of people who chose soup : the number of people who chose prawns = $$ : $$\nOf those who chose soup, \nThe number of people who chose lasagne: the number of people who chose curry = $$ : $$\nOf those who chose prawns, \nThe number of people who chose lasagne: the number of people who chose curry = $$ : $$\nWhat fraction of the people chose curry? ~[___](___)",
+                                ""
+                            ],
+                            "title": "lasagne curry",
+                            "comment": "coprime(b)\n2..5\n5..7\ncoprime(c)\ncoprime(f)\n2..4\ni/hcf(i,j)\nj/hcf(i,j)\nd*(e+f)*a+f*(c+d)*b\n(a+b)*(c+d)*(e+f)"
+                        },
+                        {
+                            "title": "Fraction equation 2",
+                            "leftRight": [
+                                "solve for x: \n~[x $$](x) = $$\n",
+                                "x = ___"
+                            ],
+                            "comment": "includesign(b*c - c)\n2..5\n2..10\n",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Solve for x and y:\n\n$$x $$y = $$\n$$x $$y = $$\n\n_Solution_\nx = __, y = __",
+                                ""
+                            ],
+                            "title": "Simultaneous equations",
+                            "comment": "2..3\nincludesign(i)\na*g+i*h\na+(1,2)\nincludesign(j)\nd*g+j*h\n1..4\ng+(-1,1,3)\n3..5\ni+(-2,-1,1,2)"
+                        },
+                        {
+                            "title": "multiply out quadratics",
+                            "leftRight": [
+                                "(x $$)(x $$) = x^2 + __x + __",
+                                ""
+                            ],
+                            "comment": "includesign(e)\nincludesign(f)\ne+f\ne*f\n(-5..-1),(1..5),(5..10)\n(-5..-1),(1..5)",
+                            "purpose": "template"
+                        }
+                    ],
+                    "name": "Mastered",
+                    "assignedNotes": [
+                        {
+                            "courseUrl": "https://teachometer.co.uk/v2/course.php?M2YjNwgjNyATNxYSJmMnaZJTRaJmNrp1cw1CdUJXaipFcVd0UFJlRHBDRo5UUtgVZ2pnNnF2a3sU",
+                            "markbookId": "1K7kag6zveX-QNhD0GFRESGUpZbirTt-psZk6bZE2Yjs",
+                            "lessonUrl": "https://teachometer.co.uk/v2/lesson.php?M2YjNwgjNyATNxYSJmMnaZJTRaJmNrp1cw1CdUJXaipFcVd0UFJlRHBDRo5UUtgVZ2pnNnF2a3sU",
+                            "markbookUrl": "https://docs.google.com/spreadsheets/d/1K7kag6zveX-QNhD0GFRESGUpZbirTt-psZk6bZE2Yjs/edit#gid=1502680666",
+                            "assignedDate": "2023-07-13T21:14:57.773Z",
+                            "lessonId": "M2YjNwgjNyATNxYSJmMnaZJTRaJmNrp1cw1CdUJXaipFcVd0UFJlRHBDRo5UUtgVZ2pnNnF2a3sU"
+                        }
+                    ]
+                },
+                {
+                    "rows": [
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "Express ~[$$x + $$]($$x) - ~[x](x - $$) in the form ~[px^2 + qx + r]($$x{x - $$})\n\nwhere p and q and r are to be found.\n\np = ___\nq = ___\nr = ___\n\n[https://www.youtube.com/watch?v=B4TqTbjLCww](https://www.youtube.com/watch?v=B4TqTbjLCww)",
+                                ""
+                            ],
+                            "title": "algebraic fractions 2",
+                            "comment": "3,5\n6..9\n2,4\n2..5\nc\nd\na-c\nb-a*d\n-1*b*d"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "(x + __)(x + __) = x^2 $$x $$",
+                                ""
+                            ],
+                            "title": "factorise quadratics",
+                            "comment": "e\nf\nincludesign(e+f)\nincludesign(e*f)\n(-5..-1),(1..5),(5..10)\n(-5..-1),(1..5)"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "The minimum of the equation y = (x - $$)^2 + $$ occurs at point (__ , __)",
+                                ""
+                            ],
+                            "title": "min points on quadratics",
+                            "comment": "(1 .. 5)\n(-10 .. 10)\na\nb"
+                        }
+                    ],
+                    "name": "30 Sep",
+                    "assignedNotes": [
+                        {
+                            "courseUrl": "https://teachometer.co.uk/v2/course.php?M=UDO0cTN4czM2YSJmMnaZJTRaJmNrp1cw1CdUJXaipFcVd0UFJlRHBDRo5UUtgVZ2pnNnF2a3sU",
+                            "markbookId": "1K7kag6zveX-QNhD0GFRESGUpZbirTt-psZk6bZE2Yjs",
+                            "lessonUrl": "https://teachometer.co.uk/v2/lesson.php?M=UDO0cTN4czM2YSJmMnaZJTRaJmNrp1cw1CdUJXaipFcVd0UFJlRHBDRo5UUtgVZ2pnNnF2a3sU",
+                            "markbookUrl": "https://docs.google.com/spreadsheets/d/1K7kag6zveX-QNhD0GFRESGUpZbirTt-psZk6bZE2Yjs/edit#gid=637857485",
+                            "assignedDate": "2023-09-30T10:01:59.564Z",
+                            "lessonId": "M=UDO0cTN4czM2YSJmMnaZJTRaJmNrp1cw1CdUJXaipFcVd0UFJlRHBDRo5UUtgVZ2pnNnF2a3sU"
+                        }
+                    ]
+                },
+                {
+                    "rows": [
+                        {
+                            "title": "ice cream van",
+                            "leftRight": [
+                                "Kev owned an ice cream van. After a few years he sold it for a $$% profit to Trev.\nTrev converted it into a burger van and sold it for a loss of $$%.\nIf Trev sold it for £$$, how much did Kev buy it for at first?\n£___",
+                                ""
+                            ],
+                            "comment": "10*(2..9)\n10*(2..9)\nd*(100+a)/100*(100-b)/100\n100*(20..50)",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "A nonsense word is any combination of letters e.g. AAA AAB AAC AAD\nHow many unique three-letter words can be made using the letters from A to $$...\n\nif each letter can be used any number of times?  ___\nif each letter can only be used once?  ___\n\n",
+                                ""
+                            ],
+                            "title": "nonsense words",
+                            "comment": "\"D\",\"E\",\"F\",\"G\",\"H\"\npow(d,3)\nfactorial(d)/factorial(d-3)\n4,5,6,7,8"
+                        },
+                        {
+                            "title": "tadpoles",
+                            "leftRight": [
+                                "Kev wants to estimate the number of tadpoles in a pond.\nHe catches $$ of the tadpoles and draws a tiny moustache on each one with a special pen.\nA week later he returns to the pond and catches $$ of the tadpoles.\n$$ of them are still wearing moustaches.\n\nWhat is the best estimate of the number of tadpoles in the pond? ___\n\n(assume that none of the original tadpoles lost their original moustaches, and that none of the un-moustached tadpoles grew new ones, and that none died, or were kidnapped, or emigrated)\n\n\n[https://www.youtube.com/watch?v=-6bZZNWDr0o](https://www.youtube.com/watch?v=-6bZZNWDr0o)",
+                                ""
+                            ],
+                            "comment": "10*(5..9)\n(5..9)*c\n5..9\na*b/c",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "template",
+                            "leftRight": [
+                                "John has an empty box. He puts some red counters and some blue counters into the box.\nThe ratio of the number of red counters to the number of blue counters is 1 : $$\n \nLinda takes at random 2 counters from the box.\nThe probability that she takes 2 red counters is ~[$$]($$)\nHow many red counters did John put into the box? ___\n\n[https://www.youtube.com/watch?v=OQtXsfyonck](https://www.youtube.com/watch?v=OQtXsfyonck)",
+                                ""
+                            ],
+                            "title": "red counters",
+                            "comment": "2..5\ne/hcf(e,f)\nf/hcf(e,f)\n5..10\nd-1\n(a+1)*((a+1)*d-1)"
+                        }
+                    ],
+                    "name": "14 Oct",
+                    "assignedNotes": [
+                        {
+                            "courseUrl": "https://teachometer.co.uk/v2/course.php?MwgjMwYzMwQDMyYSJmMnaZJTRaJmNrp1cw1CdUJXaipFcVd0UFJlRHBDRo5UUtgVZ2pnNnF2a3sU",
+                            "markbookId": "1K7kag6zveX-QNhD0GFRESGUpZbirTt-psZk6bZE2Yjs",
+                            "lessonUrl": "https://teachometer.co.uk/v2/lesson.php?MwgjMwYzMwQDMyYSJmMnaZJTRaJmNrp1cw1CdUJXaipFcVd0UFJlRHBDRo5UUtgVZ2pnNnF2a3sU",
+                            "markbookUrl": "https://docs.google.com/spreadsheets/d/1K7kag6zveX-QNhD0GFRESGUpZbirTt-psZk6bZE2Yjs/edit#gid=2040360280",
+                            "assignedDate": "2023-10-14T10:02:25.691Z",
+                            "lessonId": "MwgjMwYzMwQDMyYSJmMnaZJTRaJmNrp1cw1CdUJXaipFcVd0UFJlRHBDRo5UUtgVZ2pnNnF2a3sU"
+                        }
+                    ]
+                },
+                {
+                    "rows": [
+                        {
+                            "title": "Fraction equation",
+                            "leftRight": [
+                                "solve for x: \n~[x $$]($$) - ~[x $$]($$) = $$",
+                                "x = ___"
+                            ],
+                            "comment": "includesign(b*g - f)\n2..4\nincludesign(d*h - f)\n2..4\n1..5\n15..20 //f\ne + h //g\n1..5 //h\n",
+                            "purpose": "template"
+                        },
+                        {
+                            "purpose": "sudoku",
+                            "leftRight": [
+                                "||A|not A|either\n|B| | | \n|not B| | | \n|either| | |1",
+                                "The grid may help you to answer this question.\n\nP(A) = $$\nP(B) = $$\nP(A and B) = $$\nP(A or B) = $$"
+                            ],
+                            "title": "set notation",
+                            "comment": "c+e\nc+f\n(1..3)*0.1\nround(a+b-c,1)\n(1..3)*0.1\n((e*10+1)..5)*0.1"
+                        },
+                        {
+                            "title": "map area",
+                            "leftRight": [
+                                "A map is drawn with a scale of 1:$$\nA park has an actual area of $$m^2 what is its area on the map? ___ cm^2",
+                                ""
+                            ],
+                            "comment": "10000,20000,50000\nc*a*a/10000\n2..6",
+                            "purpose": "template"
+                        },
+                        {
+                            "title": "Map area",
+                            "leftRight": [
+                                "A map has a scale of 1:$$\nThe area of a farm on the map is $$cm^2. What is the real area of the farm in hectares? ___\n\n(1 hectare = 10000m^2 )\n",
+                                ""
+                            ],
+                            "comment": "10000,20000,50000\n2..9\nb*a*a/10000/10000",
+                            "purpose": "template"
+                        }
+                    ],
+                    "name": "21 Oct",
+                    "assignedNotes": [
+                        {
+                            "courseUrl": "https://teachometer.co.uk/v2/course.php?M2IjM5YTN4QjMxYSJmMnaZJTRaJmNrp1cw1CdUJXaipFcVd0UFJlRHBDRo5UUtgVZ2pnNnF2a3sU",
+                            "markbookId": "1K7kag6zveX-QNhD0GFRESGUpZbirTt-psZk6bZE2Yjs",
+                            "lessonUrl": "https://teachometer.co.uk/v2/lesson.php?M2IjM5YTN4QjMxYSJmMnaZJTRaJmNrp1cw1CdUJXaipFcVd0UFJlRHBDRo5UUtgVZ2pnNnF2a3sU",
+                            "markbookUrl": "https://docs.google.com/spreadsheets/d/1K7kag6zveX-QNhD0GFRESGUpZbirTt-psZk6bZE2Yjs/edit#gid=1248569226",
+                            "assignedDate": "2023-10-21T10:13:57.149Z",
+                            "lessonId": "M2IjM5YTN4QjMxYSJmMnaZJTRaJmNrp1cw1CdUJXaipFcVd0UFJlRHBDRo5UUtgVZ2pnNnF2a3sU"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "settings": {
+        "correct-%-enabled": {
+            "value": true,
+            "element": "checkbox",
+            "textBeforeElement": "% Correct",
+            "long description": "",
+            "type": "score"
+        },
+        "attempted-%-enabled": {
+            "value": false,
+            "element": "checkbox",
+            "textBeforeElement": "% Attempted",
+            "long description": "",
+            "type": "score"
+        },
+        "stars-%-enabled": {
+            "value": false,
+            "element": "checkbox",
+            "textBeforeElement": "% Stars",
+            "long description": "",
+            "type": "score"
+        },
+        "correct-enabled": {
+            "value": true,
+            "element": "checkbox",
+            "textBeforeElement": "Correct",
+            "long description": "",
+            "type": "score"
+        },
+        "attempted-enabled": {
+            "value": false,
+            "element": "checkbox",
+            "textBeforeElement": "Attempted",
+            "long description": "",
+            "type": "score"
+        },
+        "stars-enabled": {
+            "value": false,
+            "element": "checkbox",
+            "textBeforeElement": "Stars",
+            "long description": "",
+            "type": "score"
+        },
+        "outof-enabled": {
+            "value": false,
+            "element": "checkbox",
+            "textBeforeElement": "Out of",
+            "long description": "",
+            "type": "score"
+        },
+        "shuffle-default": {
+            "value": true,
+            "element": "checkbox",
+            "textBeforeElement": "shuffle questions",
+            "long description": "randomly shuffle the questions for each student",
+            "type": "feature"
+        },
+        "visible-default": {
+            "value": true,
+            "element": "checkbox",
+            "textBeforeElement": "visible",
+            "long description": "check this box to allow students to access the lesson, uncheck to hide it",
+            "type": "feature"
+        },
+        "journal-mode-default": {
+            "value": true,
+            "element": "checkbox",
+            "textBeforeElement": "journal mode",
+            "long description": "Every time a student visits the lesson page, a new row is added in the markbook for their responses. If they refresh the page this also starts a new row",
+            "type": "feature"
+        },
+        "remove-hyperlinks-default": {
+            "value": false,
+            "element": "checkbox",
+            "textBeforeElement": "remove hyperlinks",
+            "long description": "remove all hyperlinks from the lesson webpage. Good for tests",
+            "type": "feature"
+        },
+        "mark-limit-default": {
+            "value": "-1",
+            "element": "input",
+            "textBeforeElement": "mark limit",
+            "long description": "truncate questions to add up to the specified number of marks. Good for tests. set to -1 to disable this option.",
+            "type": "feature"
+        },
+        "checks-limit-default": {
+            "value": "-1",
+            "element": "input",
+            "textBeforeElement": "checks limit",
+            "long description": "limit the number of checks each student can make, when zero checks remain, the quiz will deactivate. set to -1 to disable this option.",
+            "type": "feature"
+        },
+        "time-limit-default": {
+            "value": "-1",
+            "element": "input",
+            "textBeforeElement": "time limit",
+            "long description": "a time limit will activate when students load the lesson page. set to -1 to disable this option.",
+            "type": "feature"
+        },
+        "print-show-solutions": {
+            "value": true,
+            "element": "checkbox",
+            "textBeforeElement": "show solutions",
+            "long description": "",
+            "type": "print"
+        },
+        "print-show-titles": {
+            "value": true,
+            "element": "checkbox",
+            "textBeforeElement": "show question titles",
+            "long description": "",
+            "type": "print"
+        },
+        "print-every-question-new-page": {
+            "value": false,
+            "element": "checkbox",
+            "textBeforeElement": "every question on a new page",
+            "long description": "",
+            "type": "print"
+        },
+        "student-names": {
+            "value": "Feja",
+            "element": "textarea",
+            "textBeforeElement": "student names",
+            "long description": "your students' usernames",
+            "type": ""
+        }
+    },
+    "markbookId": "1K7kag6zveX-QNhD0GFRESGUpZbirTt-psZk6bZE2Yjs"
+}
