@@ -39,9 +39,9 @@ export class LessonColl {
         });
 
         //3 create default lesson
-        app.post('/v1/lessons/topic/:topicId', async (req: Request, res: Response, next: NextFunction) => {
+        app.post('/v1/lessons', async (req: Request, res: Response, next: NextFunction) => {
             try {
-                let found = await this.createDefaultLesson(req.params.topicId);
+                let found = await this.createDefaultLesson(req.body.topicId);
                 res.json(found);
             }
             catch (e) {
@@ -49,11 +49,22 @@ export class LessonColl {
             }
         });
         
-        //delete lesson 
+        //4 delete lesson 
         app.delete('/v1/lessons/:id', async (req: Request, res: Response, next: NextFunction) => {
             try {
-                let ret = await this.model.findByIdAndDelete(req.params.id).exec();
-                res.json(ret);
+                let lesson = await this.model.findByIdAndDelete(req.params.id).exec();
+                res.json(lesson);
+            }
+            catch (e) {
+                next(e);
+            }
+        });
+        
+        //5 rename lesson
+        app.patch('/v1/lessons/:id', async (req: Request, res: Response, next: NextFunction) => {
+            try {
+                let lesson = await this.model.findByIdAndUpdate(req.params.id, {name: req.body.name}, {new: true}).exec();
+                res.json(lesson);
             }
             catch (e) {
                 next(e);

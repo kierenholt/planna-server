@@ -41,10 +41,9 @@ export class ClasColl {
         });
 
         //3 rename class
-        app.put('/v1/classes/:id/name/:name', async (req: Request, res: Response, next: NextFunction) => {
+        app.patch('/v1/classes/:id', async (req: Request, res: Response, next: NextFunction) => {
             try {
-                if (!req.body.id) throw("id field must exist on body");
-                let classes = await this.model.findByIdAndUpdate(req.params.id, {name: req.params.name}).exec();
+                let classes = await this.model.findByIdAndUpdate(req.params.id, {name: req.body.name}, {new: true}).exec();
                 res.json(classes);
             }
             catch (e) {
@@ -53,9 +52,9 @@ export class ClasColl {
         });
 
         //4 create default class
-        app.post('/v1/classes/owner/:ownerId', async (req: Request, res: Response, next: NextFunction) => {
+        app.post('/v1/classes', async (req: Request, res: Response, next: NextFunction) => {
             try {
-                let found = await this.createDefaultClas(req.params.ownerId);
+                let found = await this.createDefaultClas(req.body.ownerId);
                 res.json(found);
             }
             catch (e) {

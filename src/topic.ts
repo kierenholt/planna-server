@@ -29,9 +29,9 @@ export class TopicColl {
         });
 
         //2 create default topic
-        app.post('/v1/topics/class/:clasId', async (req: Request, res: Response, next: NextFunction) => {
+        app.post('/v1/topics', async (req: Request, res: Response, next: NextFunction) => {
             try {
-                let found = await this.createDefaultTopic(req.params.clasId);
+                let found = await this.createDefaultTopic(req.body.clasId);
                 res.json(found);
             }
             catch (e) {
@@ -44,6 +44,18 @@ export class TopicColl {
             try {
                 let deleted = await this.cascadeDelete(req.params.id);
                 res.json(deleted);
+            }
+            catch (e) {
+                next(e);
+            }
+        });
+        
+
+        //4 rename topic
+        app.patch('/v1/topics/:id', async (req: Request, res: Response, next: NextFunction) => {
+            try {
+                let topic = await this.model.findByIdAndUpdate(req.params.id, {name: req.body.name}, {new: true}).exec();
+                res.json(topic);
             }
             catch (e) {
                 next(e);

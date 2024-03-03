@@ -12,7 +12,7 @@ var cors =  require('cors');
 config();
 export const app = express();
 const corsOptions = {
-    methods: ['POST', ,'PUT', 'GET', 'DELETE'] //make them idempotent
+    methods: ['POST', 'PUT', 'PATCH', 'GET', 'DELETE'] //make them idempotent
 }
 app.use(cors(corsOptions));
 app.use(express.json({ limit: '50mb' }));

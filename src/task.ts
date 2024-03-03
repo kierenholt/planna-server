@@ -29,9 +29,9 @@ export interface Task extends Document {
 
 
         //create default task
-        app.post('/v1/tasks/topic/:topicId', async (req: Request, res: Response, next: NextFunction) => {
+        app.post('/v1/tasks', async (req: Request, res: Response, next: NextFunction) => {
             try {
-                let classes = await this.createDefaultTask(req.params.topicId);
+                let classes = await this.createDefaultTask(req.body.topicId);
                 res.json(classes);
             }
             catch (e) {
@@ -39,11 +39,22 @@ export interface Task extends Document {
             }
         });
         
-        //delete lesson 
+        //delete task 
         app.delete('/v1/tasks/:id', async (req: Request, res: Response, next: NextFunction) => {
             try {
                 let ret = await this.model.findByIdAndDelete(req.params.id).exec();
                 res.json(ret);
+            }
+            catch (e) {
+                next(e);
+            }
+        });
+        
+        //5 rename task
+        app.patch('/v1/tasks/:id', async (req: Request, res: Response, next: NextFunction) => {
+            try {
+                let task = await this.model.findByIdAndUpdate(req.params.id, {name: req.body.name}, {new: true}).exec();
+                res.json(task);
             }
             catch (e) {
                 next(e);
