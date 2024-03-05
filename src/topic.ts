@@ -11,6 +11,7 @@ export interface Topic extends Document {
     name?: string;
     clas?: Clas;
     isPublicShared?: boolean;
+    sequence?: number;
 }
 
 export class TopicColl {
@@ -28,7 +29,7 @@ export class TopicColl {
             }
         });
 
-        //2 create default topic
+        //2 create default topic TODO include sequence
         app.post('/v1/topics', async (req: Request, res: Response, next: NextFunction) => {
             try {
                 let found = await this.createDefaultTopic(req.body.clasId);
@@ -51,11 +52,17 @@ export class TopicColl {
         });
         
 
-        //4 rename topic
+        //4 rename topic / 5 update sequence
         app.patch('/v1/topics/:id', async (req: Request, res: Response, next: NextFunction) => {
             try {
-                let topic = await this.model.findByIdAndUpdate(req.params.id, {name: req.body.name}, {new: true}).exec();
-                res.json(topic);
+                if (req.body.name) {
+                    let topic = await this.model.findByIdAndUpdate(req.params.id, {name: req.body.name}, {new: true}).exec();
+                    res.json(topic);
+                }
+                else if (req.body.sequence) {
+                    let topic = await this.model.findByIdAndUpdate(req.params.id, {sequence: req.body.sequence}, {new: true}).exec();
+                    res.json(topic);
+                }
             }
             catch (e) {
                 next(e);

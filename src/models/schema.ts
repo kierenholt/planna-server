@@ -26,6 +26,7 @@ export const topicSchema = new Schema<ITopic>({
     name: { type: String, required: true },
     clas: { type: Types.ObjectId, required: true }, //0 for library
     isPublicShared: { type: Boolean, required: true, default: false },
+    sequence: { type: Number, required: true, default: 0 }
 }, { autoCreate: false });        
 
 //parent = topic
